@@ -1,0 +1,28 @@
+{
+  "vi": {
+    "products.section_title": "Sản phẩm nổi bật",
+    "products_list": [
+      { "name": "Kem Dưỡng Phục Hồi Da Thảo Mộc", "brand": "Nature Republic", "old_price": "550.000đ", "new_price": "380.000đ" },
+      { "name": "Serum Cấp Ẩm Chuyên Sâu Tinh Chất Vàng", "brand": "Estee Lauder", "old_price": "1.200.000đ", "new_price": "890.000đ" },
+      { "name": "Sữa Tắm Dưỡng Thể Hoa Hồng Pháp", "brand": "L'Occitane", "old_price": "450.000đ", "new_price": "320.000đ" },
+      { "name": "Sơn Móng Tay Hữu Cơ Thuần Chay", "brand": "Zoya", "old_price": "250.000đ", "new_price": "180.000đ" },
+      { "name": "Kem Dưỡng Phục Hồi Da Thảo Mộc", "brand": "Nature Republic", "old_price": "550.000đ", "new_price": "380.000đ" },
+      { "name": "Serum Cấp Ẩm Chuyên Sâu Tinh Chất Vàng", "brand": "Estee Lauder", "old_price": "1.200.000đ", "new_price": "890.000đ" },
+      { "name": "Sữa Tắm Dưỡng Thể Hoa Hồng Pháp", "brand": "L'Occitane", "old_price": "450.000đ", "new_price": "320.000đ" },
+      { "name": "Sơn Móng Tay Hữu Cơ Thuần Chay", "brand": "Zoya", "old_price": "250.000đ", "new_price": "180.000đ" }
+    ]
+  },
+  "en": {
+    "products.section_title": "Featured Products",
+    "products_list": [
+      { "name": "Herbal Skin Recovery Cream", "brand": "Nature Republic", "old_price": "$25.00", "new_price": "$16.00" },
+      { "name": "Gold Essence Deep Hydration Serum", "brand": "Estee Lauder", "old_price": "$55.00", "new_price": "$40.00" },
+      { "name": "French Rose Body Wash", "brand": "L'Occitane", "old_price": "$20.00", "new_price": "$14.00" },
+      { "name": "Vegan Organic Nail Polish", "brand": "Zoya", "old_price": "$12.00", "new_price": "$8.00" },
+      { "name": "Herbal Skin Recovery Cream", "brand": "Nature Republic", "old_price": "$25.00", "new_price": "$16.00" },
+      { "name": "Gold Essence Deep Hydration Serum", "brand": "Estee Lauder", "old_price": "$55.00", "new_price": "$40.00" },
+      { "name": "French Rose Body Wash", "brand": "L'Occitane", "old_price": "$20.00", "new_price": "$14.00" },
+      { "name": "Vegan Organic Nail Polish", "brand": "Zoya", "old_price": "$12.00", "new_price": "$8.00" }
+    ]
+  }
+}

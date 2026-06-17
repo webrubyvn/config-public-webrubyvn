@@ -1,0 +1,26 @@
+{
+  "vi": {
+    "testimonials.title": "Góc thân quen...",
+    "testimonials.subtitle": "...cho mình và người thân",
+    "testimonials_list": [
+      { "quote": "Tiệm là nơi có thể đi \"trốn\" một mình khi cần hoặc làm nơi hẹn hò với bạn bè đều tốt...", "author": "Chị Thu Hương" },
+      { "quote": "Dịch vụ ở đây cực kỳ chuyên nghiệp...", "author": "Chị Mai Lan" },
+      { "quote": "Mình đã làm nail ở nhiều nơi nhưng đây là nơi mình ưng ý nhất...", "author": "Chị Ngọc Diệp" },
+      { "quote": "Tiệm là nơi có thể đi \"trốn\" một mình khi cần hoặc làm nơi hẹn hò với bạn bè đều tốt...", "author": "Chị Thu Hương" },
+      { "quote": "Dịch vụ ở đây cực kỳ chuyên nghiệp...", "author": "Chị Mai Lan" },
+      { "quote": "Mình đã làm nail ở nhiều nơi nhưng đây là nơi mình ưng ý nhất...", "author": "Chị Ngọc Diệp" }
+    ]
+  },
+  "en": {
+    "testimonials.title": "Familiar corner...",
+    "testimonials.subtitle": "...for myself and loved ones",
+    "testimonials_list": [
+      { "quote": "The salon is a great place to \"hide\" alone when needed...", "author": "Ms. Thu Huong" },
+      { "quote": "The service here is extremely professional...", "author": "Ms. Mai Lan" },
+      { "quote": "I have done my nails at many places but this is my absolute favorite...", "author": "Ms. Ngoc Diep" },
+      { "quote": "The salon is a great place to \"hide\" alone when needed...", "author": "Ms. Thu Huong" },
+      { "quote": "The service here is extremely professional...", "author": "Ms. Mai Lan" },
+      { "quote": "I have done my nails at many places but this is my absolute favorite...", "author": "Ms. Ngoc Diep" }
+    ]
+  }
+}

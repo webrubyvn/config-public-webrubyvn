@@ -1,0 +1,12 @@
+{
+  "vi": {
+    "hero.title_welcome": "Trải nghiệm dịch vụ đẳng cấp 2",
+    "hero.description": "Bạn sẽ sở hữu một bộ móng không chỉ đẹp, mà còn phản ánh phong cách cá nhân độc đáo. Với đội ngũ kỹ thuật viên tận tâm và không gian thư giãn, chúng tôi cam kết mang đến dịch vụ tốt nhất.",
+    "hero.cta_button": "Đặt lịch ngay"
+  },
+  "en": {
+    "hero.title_welcome": "Experience Premium Services 2",
+    "hero.description": "You will own nails that are not only beautiful but also reflect your unique personal style. With dedicated technicians and a relaxing space, we commit to delivering the best services.",
+    "hero.cta_button": "Book Now"
+  }
+}

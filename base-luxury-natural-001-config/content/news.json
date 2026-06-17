@@ -1,0 +1,72 @@
+{
+  "vi": {
+    "section_title": "Tin tức",
+    "news_list": [
+      {
+        "title": "Công Thức Chăm Sóc Móng Tay Bằng Vaseline...",
+        "description": "Các công thức chăm sóc móng tay từ thiên nhiên luôn rất được ưa chuộng. Những...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Cách Dưỡng Móng Tay Tại Nhà Sau Khi Làm Nail",
+        "description": "Cách dưỡng móng tay tại nhà sau khi làm nail. Bổ sung dưỡng chất vào khẩu...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Một Cách Đơn Giản & Nhanh Chóng Giúp Tẩy...",
+        "description": "Móng tay bị ngả vàng có lẽ là trường hợp khá phổ biến đối với các chị em thường...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Công Thức Chăm Sóc Móng Tay Bằng Vaseline...",
+        "description": "Các công thức chăm sóc móng tay từ thiên nhiên luôn rất được ưa chuộng. Những...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Cách Dưỡng Móng Tay Tại Nhà Sau Khi Làm Nail",
+        "description": "Cách dưỡng móng tay tại nhà sau khi làm nail. Bổ sung dưỡng chất vào khẩu...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Một Cách Đơn Giản & Nhanh Chóng Giúp Tẩy...",
+        "description": "Móng tay bị ngả vàng có lẽ là trường hợp khá phổ biến đối với các chị em thường...",
+        "btn_text": "Xem thêm"
+      }
+    ]
+  },
+  "en": {
+    "section_title": "News & Articles",
+    "news_list": [
+      {
+        "title": "Nail Care Formula With Vaseline...",
+        "description": "Natural nail care formulas are always very popular. These...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "How To Care For Nails At Home After Nail Salon",
+        "description": "How to care for nails at home after nail salon. Adding nutrients to the diet...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "A Simple & Fast Way To Remove...",
+        "description": "Yellowish nails are probably a fairly common case for sisters who often...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Nail Care Formula With Vaseline...",
+        "description": "Natural nail care formulas are always very popular. These...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "How To Care For Nails At Home After Nail Salon",
+        "description": "How to care for nails at home after nail salon. Adding nutrients to the diet...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "A Simple & Fast Way To Remove...",
+        "description": "Yellowish nails are probably a fairly common case for sisters who often...",
+        "btn_text": "Read more"
+      }
+    ]
+  }
+}

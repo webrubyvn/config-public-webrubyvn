@@ -1,0 +1,16 @@
+{
+  "vi": {
+    "footer.desc": "Chúng tôi mong muốn nơi đây sẽ trở thành \"Ngôi nhà thứ hai\", nơi mọi người giải tỏa được sự mệt mỏi và tìm thấy niềm vui, sự sẻ chia thân tình bên bạn bè và người thân.",
+    "footer.newsletter_title": "ĐĂNG KÝ NHẬN KHUYẾN MẠI",
+    "footer.newsletter_desc": "Đừng bỏ lỡ những sản phẩm và chương trình khuyến mại hấp dẫn",
+    "footer.newsletter_placeholder": "Email của bạn",
+    "footer.newsletter_button": "ĐĂNG KÝ"
+  },
+  "en": {
+    "footer.desc": "We hope our salon becomes your second home, a place where everyone can relieve fatigue and find joy, sharing intimate moments with friends and relatives.",
+    "footer.newsletter_title": "SIGN UP FOR OFFERS",
+    "footer.newsletter_desc": "Do not miss out on attractive products and promotional programs.",
+    "footer.newsletter_placeholder": "Your email",
+    "footer.newsletter_button": "SUBSCRIBE"
+  }
+}

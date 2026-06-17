@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "services.section_title": "Top dịch vụ trong tháng",
+    "services.section_subtitle": "Trải nghiệm những liệu trình chăm sóc cao cấp nhất",
+    "services_list": [
+      {
+        "title": "Dịch vụ đắp móng gel đính đá",
+        "description": "Đắp móng gel tinh xảo đi kèm trang trí đá quý Swarovski sang trọng. Đảm bảo độ bền cao và tỏa sáng mọi góc nhìn.",
+        "btn_text": "Tìm hiểu thêm"
+      },
+      {
+        "title": "Dịch vụ massage trị liệu cổ vai gáy",
+        "description": "Liệu trình thư giãn chuyên sâu giúp giảm căng thẳng cơ bắp, kết hợp tinh dầu thảo mộc tự nhiên mang lại giấc ngủ ngon.",
+        "btn_text": "Tìm hiểu thêm"
+      },
+      {
+        "title": "Chăm sóc gót hồng thảo dược",
+        "description": "Tẩy tế bào chết, làm mềm gót chân khô ráp kết hợp ngâm chân thảo dược ngải cứu, trả lại đôi bàn chân mềm mại hồng hào.",
+        "btn_text": "Tìm hiểu thêm"
+      },
+      {
+        "title": "Dịch vụ đắp móng gel đính đá",
+        "description": "Đắp móng gel tinh xảo đi kèm trang trí đá quý Swarovski sang trọng. Đảm bảo độ bền cao và tỏa sáng mọi góc nhìn.",
+        "btn_text": "Tìm hiểu thêm"
+      },
+      {
+        "title": "Dịch vụ massage trị liệu cổ vai gáy",
+        "description": "Liệu trình thư giãn chuyên sâu giúp giảm căng thẳng cơ bắp, kết hợp tinh dầu thảo mộc tự nhiên mang lại giấc ngủ ngon.",
+        "btn_text": "Tìm hiểu thêm"
+      },
+      {
+        "title": "Chăm sóc gót hồng thảo dược",
+        "description": "Tẩy tế bào chết, làm mềm gót chân khô ráp kết hợp ngâm chân thảo dược ngải cứu, trả lại đôi bàn chân mềm mại hồng hào.",
+        "btn_text": "Tìm hiểu thêm"
+      }
+    ]
+  },
+  "en": {
+    "services.section_title": "Top Services of the Month",
+    "services.section_subtitle": "Experience our most premium care treatments",
+    "services_list": [
+      {
+        "title": "Gel Nail Extension with Rhinestones",
+        "description": "Exquisite gel extensions adorned with luxurious Swarovski crystals. Ensuring high durability and shining from every angle.",
+        "btn_text": "Learn More"
+      },
+      {
+        "title": "Neck & Shoulder Therapy Massage",
+        "description": "Deep relaxation treatment to relieve muscle tension, combined with natural herbal essential oils for a good night's sleep.",
+        "btn_text": "Learn More"
+      },
+      {
+        "title": "Herbal Pink Heel Care",
+        "description": "Exfoliate and soften rough heels combined with mugwort herbal foot soak, restoring soft and rosy feet.",
+        "btn_text": "Learn More"
+      },
+      {
+        "title": "Gel Nail Extension with Rhinestones",
+        "description": "Exquisite gel extensions adorned with luxurious Swarovski crystals. Ensuring high durability and shining from every angle.",
+        "btn_text": "Learn More"
+      },
+      {
+        "title": "Neck & Shoulder Therapy Massage",
+        "description": "Deep relaxation treatment to relieve muscle tension, combined with natural herbal essential oils for a good night's sleep.",
+        "btn_text": "Learn More"
+      },
+      {
+        "title": "Herbal Pink Heel Care",
+        "description": "Exfoliate and soften rough heels combined with mugwort herbal foot soak, restoring soft and rosy feet.",
+        "btn_text": "Learn More"
+      }
+    ]
+  }
+}

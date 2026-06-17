@@ -1,0 +1,22 @@
+{
+  "vi": {
+    "stats.customers": "1700",
+    "stats.customers_label": "Khách hàng/tháng",
+    "stats.staff": "100",
+    "stats.staff_label": "Nhân viên",
+    "stats.satisfaction": "99%",
+    "stats.satisfaction_label": "Tỉ lệ hài lòng",
+    "stats.branches": "10",
+    "stats.branches_label": "Chi nhánh"
+  },
+  "en": {
+    "stats.customers": "1700",
+    "stats.customers_label": "Customers/month",
+    "stats.staff": "100",
+    "stats.staff_label": "Staff",
+    "stats.satisfaction": "99%",
+    "stats.satisfaction_label": "Satisfaction Rate",
+    "stats.branches": "10",
+    "stats.branches_label": "Branches"
+  }
+}

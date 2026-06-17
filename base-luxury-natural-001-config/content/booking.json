@@ -1,0 +1,30 @@
+{
+  "vi": {
+    "booking.title": "Đặt lịch hẹn",
+    "booking.subtitle": "Để lại thông tin, chúng tôi sẽ liên hệ xếp lịch cho bạn trong vòng 15 phút.",
+    "booking.form.name": "Họ và tên của bạn",
+    "booking.form.phone": "Số điện thoại liên hệ",
+    "booking.form.service": "Chọn dịch vụ mong muốn",
+    "booking.form.service_1": "Làm móng Gel / Đính đá",
+    "booking.form.service_2": "Massage Cổ vai gáy",
+    "booking.form.service_3": "Chăm sóc gót chân",
+    "booking.form.service_4": "Dịch vụ khác",
+    "booking.form.date": "Ngày dự kiến",
+    "booking.form.time": "Giờ dự kiến",
+    "booking.form.submit": "Gửi yêu cầu đặt lịch"
+  },
+  "en": {
+    "booking.title": "Book an Appointment",
+    "booking.subtitle": "Leave your details and we will contact you within 15 minutes to confirm.",
+    "booking.form.name": "Your Full Name",
+    "booking.form.phone": "Contact Phone Number",
+    "booking.form.service": "Select a Service",
+    "booking.form.service_1": "Gel Nails / Rhinestones",
+    "booking.form.service_2": "Neck & Shoulder Massage",
+    "booking.form.service_3": "Heel Care",
+    "booking.form.service_4": "Other Services",
+    "booking.form.date": "Expected Date",
+    "booking.form.time": "Expected Time",
+    "booking.form.submit": "Send Booking Request"
+  }
+}
