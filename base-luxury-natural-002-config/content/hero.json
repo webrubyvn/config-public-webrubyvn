@@ -1,0 +1,12 @@
+{
+  "vi": {
+    "hero.title_welcome": "Nghệ thuật Nail & Lash Đẳng cấp",
+    "hero.description": "Trải nghiệm dịch vụ chăm sóc móng và mi chuẩn chuyên gia với kỹ thuật vẽ thủ công tỉ mỉ, nâng tầm vẻ đẹp sang trọng từ những chi tiết nhỏ nhất.",
+    "hero.cta_button": "Đặt lịch ngay"
+  },
+  "en": {
+    "hero.title_welcome": "Premium Nail & Lash Artistry",
+    "hero.description": "Experience professional nail and lash care with meticulous hand-painted techniques, elevating your elegance through the finest details.",
+    "hero.cta_button": "Book Now"
+  }
+}

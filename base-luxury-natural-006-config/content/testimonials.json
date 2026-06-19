@@ -1,0 +1,62 @@
+{
+  "vi": {
+    "testimonials.title": "Cảm nhận khách hàng",
+    "testimonials.subtitle": "Lời khẳng định từ những tín đồ làm đẹp",
+    "testimonials_list": [
+      {
+        "quote": "Không gian quá chill, làm nail rất tỉ mỉ và bền.",
+        "author": "Ngọc Diệp"
+      },
+      {
+        "quote": "Mi nối rất nhẹ, tự nhiên, làm xong ai cũng khen.",
+        "author": "Phương Linh"
+      },
+      {
+        "quote": "Dịch vụ chuyên nghiệp, nhân viên rất tận tâm.",
+        "author": "Hồng Anh"
+      },
+      {
+        "quote": "Thiết kế móng cực độc, không đụng hàng.",
+        "author": "Minh Thư"
+      },
+      {
+        "quote": "Đây là lần thứ 3 mình quay lại, quá ưng ý.",
+        "author": "Tuyết Mai"
+      },
+      {
+        "quote": "Thư giãn tuyệt đối, xứng đáng với giá tiền.",
+        "author": "Lan Chi"
+      }
+    ]
+  },
+  "en": {
+    "testimonials.title": "Customer Feedback",
+    "testimonials.subtitle": "Words from beauty enthusiasts",
+    "testimonials_list": [
+      {
+        "quote": "The space is so chill, the nail work is meticulous.",
+        "author": "Ngoc Diep"
+      },
+      {
+        "quote": "Lashes are very light and natural, everyone loves it.",
+        "author": "Phuong Linh"
+      },
+      {
+        "quote": "Professional service, staff are very dedicated.",
+        "author": "Hong Anh"
+      },
+      {
+        "quote": "Nail designs are so unique, one of a kind.",
+        "author": "Minh Thu"
+      },
+      {
+        "quote": "My 3rd time returning, absolutely satisfied.",
+        "author": "Tuyet Mai"
+      },
+      {
+        "quote": "Absolute relaxation, totally worth the price.",
+        "author": "Lan Chi"
+      }
+    ]
+  }
+}

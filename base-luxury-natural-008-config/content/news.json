@@ -1,0 +1,72 @@
+{
+  "vi": {
+    "section_title": "Góc Nghệ Thuật & Xu Hướng",
+    "news_list": [
+      {
+        "title": "Xu hướng nail đính đá quý 2024",
+        "description": "Khám phá kỹ thuật đính đá cầu kỳ tạo điểm nhấn quyền lực.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Bí quyết giữ mi nối cong vút",
+        "description": "Chăm sóc mi nối chuyên sâu để duy trì độ bền và độ cong hoàn hảo.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Sắc màu tối giản cho quý cô",
+        "description": "Sự thanh lịch toát lên từ những gam màu trung tính thời thượng.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Nail-art phong cách hoàng gia",
+        "description": "Họa tiết hoàng gia trở lại với vẻ đẹp đẳng cấp không tuổi.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Dưỡng móng chuẩn chuyên gia",
+        "description": "Quy trình tái tạo móng hư tổn sau khi làm hóa chất thường xuyên.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Trải nghiệm dịch vụ Nail Spa 6 sao",
+        "description": "Tìm hiểu về không gian làm đẹp riêng tư và đẳng cấp tại studio.",
+        "btn_text": "Xem thêm"
+      }
+    ]
+  },
+  "en": {
+    "section_title": "Artistic Insights & Trends",
+    "news_list": [
+      {
+        "title": "2024 Gemstone Nail Trends",
+        "description": "Explore intricate gemstone application techniques for a powerful look.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Secret to Perfect Lash Retention",
+        "description": "Professional care tips to maintain perfect curl and durability.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Minimalist Tones for the Elite",
+        "description": "Elegance shines through trendy, sophisticated neutral shades.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Royal Style Nail Art",
+        "description": "Classic royal motifs return with timeless, prestigious charm.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Expert Nail Care Rituals",
+        "description": "Regenerate damaged nails after frequent chemical exposure.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "6-Star Nail Spa Experience",
+        "description": "Discover our private and luxurious beauty studio environment.",
+        "btn_text": "Read more"
+      }
+    ]
+  }
+}

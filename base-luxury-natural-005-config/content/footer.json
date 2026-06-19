@@ -1,0 +1,16 @@
+{
+  "vi": {
+    "footer.desc": "Đỉnh cao nghệ thuật làm móng thủ công. Nơi tôn vinh vẻ đẹp kiêu sa và thần thái độc bản qua từng nét vẽ trên đầu ngón tay.",
+    "footer.newsletter_title": "NHẬN CẬP NHẬT XU HƯỚNG",
+    "footer.newsletter_desc": "Đăng ký để nhận tư vấn nail art độc quyền và ưu đãi đặc quyền từ các master artist.",
+    "footer.newsletter_placeholder": "Nhập email của bạn",
+    "footer.newsletter_button": "ĐĂNG KÝ"
+  },
+  "en": {
+    "footer.desc": "The pinnacle of artisanal nail craft. Celebrating sophisticated beauty and unique charisma through every brushstroke on your fingertips.",
+    "footer.newsletter_title": "SUBSCRIBE TO TRENDS",
+    "footer.newsletter_desc": "Sign up for exclusive nail art consultations and privileged offers from our master artists.",
+    "footer.newsletter_placeholder": "Enter your email",
+    "footer.newsletter_button": "SUBSCRIBE"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "services.section_title": "Đặc quyền của bạn",
+    "services.section_subtitle": "Trải nghiệm dịch vụ nail chuẩn 5 sao với sự tận tâm tuyệt đối",
+    "services_list": [
+      {
+        "title": "Dụng cụ khử khuẩn 100%",
+        "description": "Mỗi bộ dụng cụ chỉ sử dụng cho duy nhất một khách hàng.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Sản phẩm nguồn gốc tự nhiên",
+        "description": "Sơn móng không chứa độc tố, an toàn cho mẹ bầu.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Master Artist tư vấn riêng",
+        "description": "Thiết kế mẫu móng dựa trên phong cách cá nhân.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Không gian thư giãn trị liệu",
+        "description": "Trải nghiệm âm nhạc và tinh dầu thư giãn chuyên sâu.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Bảo hành móng 7 ngày",
+        "description": "Hỗ trợ chỉnh sửa miễn phí nếu bong tróc trong 1 tuần.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Trà chiều & Spa tay chân",
+        "description": "Thưởng thức dịch vụ thư giãn trong lúc chờ đợi.",
+        "btn_text": "Xem thêm"
+      }
+    ]
+  },
+  "en": {
+    "services.section_title": "Your Privileges",
+    "services.section_subtitle": "5-star standard nail services delivered with absolute dedication",
+    "services_list": [
+      {
+        "title": "100% Sterilized Tools",
+        "description": "Each tool set is used for a single client only.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Organic Ingredients",
+        "description": "Non-toxic nail polishes, safe for expectant mothers.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Master Artist Consultation",
+        "description": "Custom designs based on your personal style.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Relaxation Lounge",
+        "description": "Experience deep relaxation with music and oils.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "7-Day Nail Warranty",
+        "description": "Free repairs if any peeling occurs within one week.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "High Tea & Hand Spa",
+        "description": "Enjoy relaxing services while you wait.",
+        "btn_text": "Learn more"
+      }
+    ]
+  }
+}

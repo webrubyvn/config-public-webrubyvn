@@ -1,0 +1,22 @@
+{
+  "vi": {
+    "stats.customers": "20.000+",
+    "stats.customers_label": "Khách hàng hài lòng",
+    "stats.staff": "50+",
+    "stats.staff_label": "Kỹ thuật viên chuyên nghiệp",
+    "stats.satisfaction": "99%",
+    "stats.satisfaction_label": "Tỷ lệ khách quay lại",
+    "stats.branches": "10",
+    "stats.branches_label": "Hệ thống toàn quốc"
+  },
+  "en": {
+    "stats.customers": "20,000+",
+    "stats.customers_label": "Satisfied Clients",
+    "stats.staff": "50+",
+    "stats.staff_label": "Professional Techs",
+    "stats.satisfaction": "99%",
+    "stats.satisfaction_label": "Retention Rate",
+    "stats.branches": "10",
+    "stats.branches_label": "Nationwide Studios"
+  }
+}

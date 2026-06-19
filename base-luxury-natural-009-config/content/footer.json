@@ -1,0 +1,16 @@
+{
+  "vi": {
+    "footer.desc": "Nail & Lashes Studio - Nơi tôn vinh vẻ đẹp kiêu sa và thần thái của phái đẹp thông qua những tác phẩm nghệ thuật trên đầu ngón tay.",
+    "footer.newsletter_title": "ĐĂNG KÝ NHẬN ƯU ĐÃI VIP",
+    "footer.newsletter_desc": "Nhận ngay đặc quyền ưu tiên đặt lịch và các bộ sưu tập nail art mới nhất từ chúng tôi.",
+    "footer.newsletter_placeholder": "Nhập email của bạn",
+    "footer.newsletter_button": "ĐĂNG KÝ"
+  },
+  "en": {
+    "footer.desc": "Nail & Lashes Studio - Celebrating the sophisticated beauty and charisma of modern women through bespoke fingertip artistry.",
+    "footer.newsletter_title": "SUBSCRIBE FOR VIP PERKS",
+    "footer.newsletter_desc": "Get priority booking privileges and updates on our latest nail art collections.",
+    "footer.newsletter_placeholder": "Enter your email",
+    "footer.newsletter_button": "SUBSCRIBE"
+  }
+}

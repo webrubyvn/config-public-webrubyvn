@@ -1,0 +1,62 @@
+{
+  "vi": {
+    "testimonials.title": "Cảm nhận khách hàng",
+    "testimonials.subtitle": "Lời chia sẻ từ những quý cô yêu cái đẹp",
+    "testimonials_list": [
+      {
+        "quote": "Không gian rất sang trọng, nghệ sĩ làm rất tỉ mỉ.",
+        "author": "Lan Anh"
+      },
+      {
+        "quote": "Hàng mi nối nhẹ như không, rất tự nhiên và bền.",
+        "author": "Thu Thảo"
+      },
+      {
+        "quote": "Màu sơn lên chuẩn và rất bền, dịch vụ quá tuyệt.",
+        "author": "Minh Ngọc"
+      },
+      {
+        "quote": "Thích cách tư vấn chọn form nail của các bạn.",
+        "author": "Bảo Ngọc"
+      },
+      {
+        "quote": "Tiệm nail sạch sẽ, nhân viên cực kỳ nhiệt tình.",
+        "author": "Khánh Vy"
+      },
+      {
+        "quote": "Trải nghiệm thư giãn tuyệt vời sau giờ làm việc.",
+        "author": "Hải Yến"
+      }
+    ]
+  },
+  "en": {
+    "testimonials.title": "Client Testimonials",
+    "testimonials.subtitle": "Words from ladies who love beauty",
+    "testimonials_list": [
+      {
+        "quote": "Very luxurious space, the artist was so meticulous.",
+        "author": "Lan Anh"
+      },
+      {
+        "quote": "The lashes are weightless, natural, and long-lasting.",
+        "author": "Thu Thao"
+      },
+      {
+        "quote": "The polish color is true and durable. Excellent service.",
+        "author": "Minh Ngoc"
+      },
+      {
+        "quote": "I love the way they suggest nail forms for me.",
+        "author": "Bao Ngoc"
+      },
+      {
+        "quote": "Clean shop, staff are incredibly attentive.",
+        "author": "Khanh Vy"
+      },
+      {
+        "quote": "A perfect relaxing experience after work hours.",
+        "author": "Hai Yen"
+      }
+    ]
+  }
+}

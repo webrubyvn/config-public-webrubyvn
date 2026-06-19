@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "services.section_title": "Trải nghiệm Đẳng cấp",
+    "services.section_subtitle": "Cam kết tiêu chuẩn vệ sinh và chất lượng dịch vụ 5 sao",
+    "services_list": [
+      {
+        "title": "Vệ sinh chuẩn Y khoa",
+        "description": "Toàn bộ dụng cụ được tiệt trùng qua máy Autoclave hiện đại.",
+        "btn_text": "Tìm hiểu"
+      },
+      {
+        "title": "Chuyên gia tay nghề cao",
+        "description": "Đội ngũ Artist với hơn 5 năm kinh nghiệm trong ngành.",
+        "btn_text": "Tìm hiểu"
+      },
+      {
+        "title": "Màu sơn nhập khẩu",
+        "description": "Sử dụng sơn Gel chính hãng, bền màu và an toàn sức khỏe.",
+        "btn_text": "Tìm hiểu"
+      },
+      {
+        "title": "Không gian riêng tư",
+        "description": "Phòng dịch vụ riêng biệt với âm nhạc trị liệu nhẹ nhàng.",
+        "btn_text": "Tìm hiểu"
+      },
+      {
+        "title": "Bảo hành dịch vụ",
+        "description": "Dặm lại miễn phí trong vòng 3 ngày đối với các dịch vụ mi.",
+        "btn_text": "Tìm hiểu"
+      },
+      {
+        "title": "Tư vấn 1:1",
+        "description": "Thiết kế mẫu riêng dựa trên dáng móng và mắt của khách.",
+        "btn_text": "Tìm hiểu"
+      }
+    ]
+  },
+  "en": {
+    "services.section_title": "Premium Experience",
+    "services.section_subtitle": "Committed to 5-star hygiene standards and service quality",
+    "services_list": [
+      {
+        "title": "Medical-Grade Sterilization",
+        "description": "All tools are sterilized via modern Autoclave technology.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Expert Artisans",
+        "description": "Artists with over 5 years of professional industry experience.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Imported Polishes",
+        "description": "Using authentic Gel polish for long-lasting, safe results.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Private Suites",
+        "description": "Dedicated service rooms with therapeutic ambient music.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Service Warranty",
+        "description": "Free touch-ups within 3 days for all lash services.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "1:1 Consultation",
+        "description": "Custom designs tailored to your unique nail and eye shape.",
+        "btn_text": "Learn more"
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "vi": {
+    "testimonials.title": "Cảm nhận khách hàng",
+    "testimonials.subtitle": "Lời chứng thực từ những quý cô thanh lịch",
+    "testimonials_list": [
+      {
+        "quote": "Bộ móng quá đẹp, nhân viên cực kỳ tinh tế.",
+        "author": "Lan Anh"
+      },
+      {
+        "quote": "Nối mi rất nhẹ, hoàn toàn không bị cộm.",
+        "author": "Mai Chi"
+      },
+      {
+        "quote": "Không gian quá chill, làm đẹp mà như thư giãn.",
+        "author": "Hương Giang"
+      },
+      {
+        "quote": "Độ bền của sơn gel thực sự đáng kinh ngạc.",
+        "author": "Thùy Linh"
+      },
+      {
+        "quote": "Dịch vụ chuyên nghiệp từ khâu đón tiếp.",
+        "author": "Minh Thư"
+      },
+      {
+        "quote": "Chắc chắn sẽ trở thành khách hàng thân thiết.",
+        "author": "Ngọc Trâm"
+      }
+    ]
+  },
+  "en": {
+    "testimonials.title": "Client Testimonials",
+    "testimonials.subtitle": "Feedback from our elegant ladies",
+    "testimonials_list": [
+      {
+        "quote": "Stunning nail art, staff are extremely refined.",
+        "author": "Lan Anh"
+      },
+      {
+        "quote": "Lashes feel so lightweight, absolutely perfect.",
+        "author": "Mai Chi"
+      },
+      {
+        "quote": "Such a chill vibe, beauty meets relaxation.",
+        "author": "Huong Giang"
+      },
+      {
+        "quote": "The durability of the gel polish is incredible.",
+        "author": "Thuy Linh"
+      },
+      {
+        "quote": "Professional service from the moment I arrived.",
+        "author": "Minh Thu"
+      },
+      {
+        "quote": "Definitely becoming a loyal customer here.",
+        "author": "Ngoc Tram"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "vi": {
+    "hero.title_welcome": "Đỉnh cao nghệ thuật làm móng quý tộc",
+    "hero.description": "Trải nghiệm dịch vụ nail chuẩn quốc tế với kỹ thuật tinh xảo, chất liệu nhập khẩu cao cấp và không gian thư giãn sang trọng bậc nhất.",
+    "hero.cta_button": "Đặt lịch tư vấn"
+  },
+  "en": {
+    "hero.title_welcome": "The Pinnacle of Aristocratic Nail Art",
+    "hero.description": "Experience international-standard nail services with exquisite craftsmanship, premium imported materials, and ultra-luxurious relaxation space.",
+    "hero.cta_button": "Book Appointment"
+  }
+}

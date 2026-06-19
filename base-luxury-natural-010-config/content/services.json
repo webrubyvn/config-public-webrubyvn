@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "services.section_title": "Đặc quyền thượng lưu",
+    "services.section_subtitle": "Trải nghiệm chăm sóc sắc đẹp đẳng cấp nhất dành cho quý khách",
+    "services_list": [
+      {
+        "title": "Không gian riêng tư",
+        "description": "Phòng dịch vụ tách biệt, đảm bảo sự yên tĩnh tuyệt đối.",
+        "btn_text": "Khám phá"
+      },
+      {
+        "title": "Chuyên viên tay nghề vàng",
+        "description": "Đội ngũ kỹ thuật viên với hơn 10 năm kinh nghiệm.",
+        "btn_text": "Khám phá"
+      },
+      {
+        "title": "Sản phẩm nhập khẩu",
+        "description": "Sử dụng 100% dòng sơn cao cấp từ Mỹ và Nhật Bản.",
+        "btn_text": "Khám phá"
+      },
+      {
+        "title": "Thức uống thượng hạng",
+        "description": "Phục vụ trà chiều và rượu vang trong quá trình làm đẹp.",
+        "btn_text": "Khám phá"
+      },
+      {
+        "title": "Bảo hành 7 ngày",
+        "description": "Tự do chỉnh sửa miễn phí nếu bộ móng không đạt ý muốn.",
+        "btn_text": "Khám phá"
+      },
+      {
+        "title": "Đặt lịch ưu tiên",
+        "description": "Không cần chờ đợi với hệ thống đặt lịch dành riêng cho VIP.",
+        "btn_text": "Khám phá"
+      }
+    ]
+  },
+  "en": {
+    "services.section_title": "Elite Privileges",
+    "services.section_subtitle": "The most prestigious beauty care experience for our guests",
+    "services_list": [
+      {
+        "title": "Private Suites",
+        "description": "Separate service rooms ensuring absolute tranquility.",
+        "btn_text": "Discover"
+      },
+      {
+        "title": "Gold-Standard Technicians",
+        "description": "Expert team with over 10 years of experience.",
+        "btn_text": "Discover"
+      },
+      {
+        "title": "Imported Products",
+        "description": "100% usage of premium nail polish lines from USA and Japan.",
+        "btn_text": "Discover"
+      },
+      {
+        "title": "Premium Refreshments",
+        "description": "Serving afternoon tea and wine during your session.",
+        "btn_text": "Discover"
+      },
+      {
+        "title": "7-Day Warranty",
+        "description": "Free touch-ups if the manicure doesn't meet your expectations.",
+        "btn_text": "Discover"
+      },
+      {
+        "title": "Priority Booking",
+        "description": "No waiting with our VIP-only reservation system.",
+        "btn_text": "Discover"
+      }
+    ]
+  }
+}

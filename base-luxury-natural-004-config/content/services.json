@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "services.section_title": "Đặc quyền thượng lưu",
+    "services.section_subtitle": "Chăm sóc vẻ đẹp của bạn bằng sự tận tâm và tiêu chuẩn quốc tế",
+    "services_list": [
+      {
+        "title": "Bảo hành móng 7 ngày",
+        "description": "Cam kết chỉnh sửa miễn phí nếu xảy ra lỗi bong tróc trong tuần đầu tiên.",
+        "btn_text": "Chi tiết"
+      },
+      {
+        "title": "Không gian riêng tư VIP",
+        "description": "Phòng làm dịch vụ tách biệt, đảm bảo sự riêng tư tuyệt đối cho khách hàng.",
+        "btn_text": "Chi tiết"
+      },
+      {
+        "title": "Thức uống thượng hạng",
+        "description": "Thưởng thức trà thảo mộc hoặc cafe trong thời gian chờ đợi.",
+        "btn_text": "Chi tiết"
+      },
+      {
+        "title": "Kỹ thuật viên Master",
+        "description": "Đội ngũ chuyên viên được đào tạo bài bản từ các học viện nail quốc tế.",
+        "btn_text": "Chi tiết"
+      },
+      {
+        "title": "Dụng cụ khử trùng 100%",
+        "description": "Mọi vật dụng đều được làm sạch và đóng gói theo chuẩn y tế.",
+        "btn_text": "Chi tiết"
+      },
+      {
+        "title": "Ưu đãi thành viên vàng",
+        "description": "Tích điểm nhận quà và giảm giá cho các dịch vụ chăm sóc định kỳ.",
+        "btn_text": "Chi tiết"
+      }
+    ]
+  },
+  "en": {
+    "services.section_title": "Elite Privileges",
+    "services.section_subtitle": "Caring for your beauty with dedication and international standards",
+    "services_list": [
+      {
+        "title": "7-Day Nail Warranty",
+        "description": "Free touch-ups guaranteed for any peeling within the first week.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Private VIP Suite",
+        "description": "Separated service rooms ensuring absolute privacy for our clients.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Premium Refreshments",
+        "description": "Enjoy premium herbal teas or coffee during your visit.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Master Technicians",
+        "description": "Our team is professionally trained at world-class nail academies.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "100% Sterile Tools",
+        "description": "All equipment is cleaned and packed according to medical standards.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Gold Membership Perks",
+        "description": "Earn points for gifts and discounts on periodic care services.",
+        "btn_text": "Learn more"
+      }
+    ]
+  }
+}

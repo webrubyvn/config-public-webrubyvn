@@ -1,0 +1,72 @@
+{
+  "vi": {
+    "section_title": "Tạp chí Nail Nghệ thuật",
+    "news_list": [
+      {
+        "title": "Xu hướng Nail đính đá quý 2024",
+        "description": "Khám phá kỹ thuật đính kết đá cao cấp giúp đôi bàn tay tỏa sáng như những món trang sức đắt giá.",
+        "btn_text": "Xem chi tiết"
+      },
+      {
+        "title": "Bí mật chăm sóc móng tại nhà",
+        "description": "Quy trình dưỡng chuyên sâu giúp móng luôn chắc khỏe và sáng bóng như vừa rời khỏi salon.",
+        "btn_text": "Xem chi tiết"
+      },
+      {
+        "title": "Nghệ thuật vẽ móng tối giản",
+        "description": "Sự kết hợp tinh tế giữa phong cách tối giản và những nét vẽ điêu luyện tạo nên vẻ đẹp sang trọng.",
+        "btn_text": "Xem chi tiết"
+      },
+      {
+        "title": "Chọn kiểu móng cho quý cô công sở",
+        "description": "Những mẫu nail thanh lịch, nhã nhặn giúp bạn khẳng định phong thái tự tin trong môi trường chuyên nghiệp.",
+        "btn_text": "Xem chi tiết"
+      },
+      {
+        "title": "Kỹ thuật nối mi lụa tự nhiên",
+        "description": "Công nghệ nối mi tiên tiến giúp đôi mắt trở nên có chiều sâu và quyến rũ tự nhiên.",
+        "btn_text": "Xem chi tiết"
+      },
+      {
+        "title": "Bảng màu sơn Gel sang trọng",
+        "description": "Bộ sưu tập màu sắc thời thượng từ các thương hiệu sơn móng cao cấp nhất thế giới.",
+        "btn_text": "Xem chi tiết"
+      }
+    ]
+  },
+  "en": {
+    "section_title": "Nail Art Magazine",
+    "news_list": [
+      {
+        "title": "2024 Gemstone Nail Trends",
+        "description": "Discover high-end techniques that make your hands shine like expensive jewelry pieces.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Home Care Nail Secrets",
+        "description": "An intensive care routine to keep your nails strong and shiny as if you just left the salon.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Minimalist Nail Artistry",
+        "description": "The sophisticated blend of minimalist aesthetics and skillful brushwork creates luxurious beauty.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Office Chic Nail Designs",
+        "description": "Elegant and subtle nail styles to help you maintain a confident aura in professional settings.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Natural Silk Lash Extension",
+        "description": "Advanced lash extension technology that gives your eyes depth and natural allure.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Luxury Gel Polish Palette",
+        "description": "A collection of trendy colors from the world's most prestigious nail polish brands.",
+        "btn_text": "Read more"
+      }
+    ]
+  }
+}

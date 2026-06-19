@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "services.section_title": "Đặc quyền thượng lưu",
+    "services.section_subtitle": "Trải nghiệm sự khác biệt với dịch vụ chăm sóc sắc đẹp cá nhân hóa",
+    "services_list": [
+      {
+        "title": "Không gian riêng tư",
+        "description": "Phòng làm đẹp riêng biệt đảm bảo sự yên tĩnh và bảo mật.",
+        "btn_text": "Khám phá"
+      },
+      {
+        "title": "Chuyên gia quốc tế",
+        "description": "Đội ngũ chuyên viên đào tạo từ các kinh đô thời trang.",
+        "btn_text": "Khám phá"
+      },
+      {
+        "title": "Sản phẩm organic",
+        "description": "Chỉ sử dụng nguyên liệu hữu cơ cao cấp, an toàn tuyệt đối.",
+        "btn_text": "Khám phá"
+      },
+      {
+        "title": "Công nghệ khử khuẩn",
+        "description": "Quy trình vô trùng dụng cụ theo tiêu chuẩn y tế khắt khe.",
+        "btn_text": "Khám phá"
+      },
+      {
+        "title": "Dịch vụ tại gia",
+        "description": "Đưa trải nghiệm studio cao cấp đến tận không gian sống.",
+        "btn_text": "Khám phá"
+      },
+      {
+        "title": "Tư vấn phong cách",
+        "description": "Định hình mẫu nail phù hợp với cá tính và sự kiện của bạn.",
+        "btn_text": "Khám phá"
+      }
+    ]
+  },
+  "en": {
+    "services.section_title": "Elite Privileges",
+    "services.section_subtitle": "Experience the difference with personalized beauty services",
+    "services_list": [
+      {
+        "title": "Private Suites",
+        "description": "Dedicated beauty suites ensuring maximum privacy and peace.",
+        "btn_text": "Explore"
+      },
+      {
+        "title": "Global Specialists",
+        "description": "Team of experts trained in world-class fashion capitals.",
+        "btn_text": "Explore"
+      },
+      {
+        "title": "Organic Products",
+        "description": "Exclusively using premium, safe, and organic materials.",
+        "btn_text": "Explore"
+      },
+      {
+        "title": "Sanitization Technology",
+        "description": "Medical-grade sterilization for all beauty tools.",
+        "btn_text": "Explore"
+      },
+      {
+        "title": "In-Home Service",
+        "description": "Bringing our luxury studio experience to your home.",
+        "btn_text": "Explore"
+      },
+      {
+        "title": "Style Consultation",
+        "description": "Curating nail styles perfectly tailored to your persona.",
+        "btn_text": "Explore"
+      }
+    ]
+  }
+}

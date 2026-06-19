@@ -1,0 +1,72 @@
+{
+  "vi": {
+    "section_title": "Xu hướng & Phong cách",
+    "news_list": [
+      {
+        "title": "Nghệ thuật đính đá cao cấp",
+        "description": "Khám phá phong cách sang trọng với những viên đá quý được tuyển chọn...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Xu hướng mi Volume tự nhiên",
+        "description": "Bí quyết sở hữu đôi mắt hút hồn mà vẫn giữ được nét thanh tú tự nhiên...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Chăm sóc móng bền màu 4 tuần",
+        "description": "Hướng dẫn bảo vệ lớp sơn gel luôn sáng bóng và chắc khỏe tại nhà...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Minimalism trong Nail Art",
+        "description": "Khi sự đơn giản lên ngôi, vẻ đẹp tinh tế tỏa sáng trong từng đường nét...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Lựa chọn dáng móng phù hợp",
+        "description": "Tư vấn chọn dáng móng hài hòa với bàn tay và cá tính của từng khách hàng...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Liệu trình Spa tay chuyên sâu",
+        "description": "Tái tạo làn da đôi bàn tay mịn màng với tinh chất hữu cơ cao cấp...",
+        "btn_text": "Xem thêm"
+      }
+    ]
+  },
+  "en": {
+    "section_title": "Trends & Style",
+    "news_list": [
+      {
+        "title": "Premium Crystal Artistry",
+        "description": "Discover opulent styles featuring hand-selected precious crystals...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Natural Volume Lash Trends",
+        "description": "Secrets to captivating eyes while maintaining a soft, natural allure...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "4-Week Gel Maintenance",
+        "description": "How to keep your gel polish vibrant and chip-free for weeks...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Minimalism in Nail Art",
+        "description": "Where simplicity reigns, refined beauty radiates in every stroke...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Choosing Your Nail Shape",
+        "description": "Expert advice on selecting shapes that flatter your unique personality...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Advanced Hand Spa Rituals",
+        "description": "Rejuvenate your hands with our signature organic treatment protocol...",
+        "btn_text": "Read more"
+      }
+    ]
+  }
+}

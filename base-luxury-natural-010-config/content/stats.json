@@ -1,0 +1,22 @@
+{
+  "vi": {
+    "stats.customers": "10.000+",
+    "stats.customers_label": "Khách hàng thượng lưu",
+    "stats.staff": "50+",
+    "stats.staff_label": "Chuyên gia làm đẹp",
+    "stats.satisfaction": "99.9%",
+    "stats.satisfaction_label": "Tỷ lệ hài lòng",
+    "stats.branches": "5",
+    "stats.branches_label": "Chi nhánh cao cấp"
+  },
+  "en": {
+    "stats.customers": "10,000+",
+    "stats.customers_label": "Elite Customers",
+    "stats.staff": "50+",
+    "stats.staff_label": "Beauty Experts",
+    "stats.satisfaction": "99.9%",
+    "stats.satisfaction_label": "Satisfaction Rate",
+    "stats.branches": "5",
+    "stats.branches_label": "Premium Locations"
+  }
+}

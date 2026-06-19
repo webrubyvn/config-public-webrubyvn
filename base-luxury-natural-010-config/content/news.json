@@ -1,0 +1,72 @@
+{
+  "vi": {
+    "section_title": "Góc nhìn nghệ thuật",
+    "news_list": [
+      {
+        "title": "Kỹ thuật đắp bột điêu khắc đỉnh cao",
+        "description": "Khám phá quy trình tạo hình móng 3D chân thực như tác phẩm điêu khắc.",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Xu hướng màu sơn quý tộc mùa này",
+        "description": "Những bảng màu lấy cảm hứng từ đá quý tự nhiên đang thống trị.",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Chăm sóc móng chuyên sâu tại nhà",
+        "description": "Bí quyết giữ bộ móng của bạn bền đẹp suốt 4 tuần lễ.",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Nghệ thuật đính đá Swarovski cao cấp",
+        "description": "Cách phối đá quý để bộ móng thêm phần lộng lẫy và kiêu sa.",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Công nghệ chăm sóc da tay lão hóa",
+        "description": "Liệu trình trẻ hóa bàn tay bằng tinh chất vàng 24K.",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Phong cách nail Minimalist sang trọng",
+        "description": "Tại sao sự đơn giản lại là đỉnh cao của sự đẳng cấp?",
+        "btn_text": "Xem ngay"
+      }
+    ]
+  },
+  "en": {
+    "section_title": "Artistic Insights",
+    "news_list": [
+      {
+        "title": "Advanced 3D Sculpting Techniques",
+        "description": "Discover the process of creating realistic 3D nail sculptures.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Royal Nail Colors of the Season",
+        "description": "Trending palettes inspired by natural gemstones are dominating.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Professional At-Home Nail Care",
+        "description": "Secrets to keep your manicure durable and beautiful for 4 weeks.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Premium Swarovski Stone Art",
+        "description": "How to mix gemstones to make your nails look glamorous.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Anti-Aging Hand Care Technology",
+        "description": "Rejuvenating hand treatments using 24K gold serum.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Minimalist Luxury Nail Style",
+        "description": "Why simplicity is the ultimate form of sophistication?",
+        "btn_text": "Read more"
+      }
+    ]
+  }
+}

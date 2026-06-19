@@ -1,0 +1,16 @@
+{
+  "vi": {
+    "footer.desc": "Đẳng cấp thượng lưu qua từng nét vẽ móng nghệ thuật. Chúng tôi kiến tạo vẻ đẹp kiêu sa, tinh xảo cho những quý cô hiện đại.",
+    "footer.newsletter_title": "ĐĂNG KÝ NHẬN ƯU ĐÃI VIP",
+    "footer.newsletter_desc": "Nhận đặc quyền giảm 20% cho lần ghé thăm đầu tiên và thông tin về các bộ sưu tập nail-art giới hạn.",
+    "footer.newsletter_placeholder": "Nhập email của bạn",
+    "footer.newsletter_button": "ĐĂNG KÝ"
+  },
+  "en": {
+    "footer.desc": "Elite artistry in every nail design. We curate sophisticated, exquisite beauty for the modern woman.",
+    "footer.newsletter_title": "SUBSCRIBE FOR VIP PERKS",
+    "footer.newsletter_desc": "Get a 20% exclusive discount on your first visit and updates on our limited-edition nail collections.",
+    "footer.newsletter_placeholder": "Enter your email",
+    "footer.newsletter_button": "SUBSCRIBE"
+  }
+}

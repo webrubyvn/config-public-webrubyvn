@@ -1,0 +1,84 @@
+{
+  "vi": {
+    "products.section_title": "Dịch vụ Nổi bật",
+    "products_list": [
+      {
+        "name": "Nail Art 3D Vẽ Tay",
+        "brand": "Signature",
+        "old_price": "800.000đ",
+        "new_price": "650.000đ"
+      },
+      {
+        "name": "Chăm sóc móng hữu cơ",
+        "brand": "Organic Care",
+        "old_price": "400.000đ",
+        "new_price": "320.000đ"
+      },
+      {
+        "name": "Đính đá Swarovski",
+        "brand": "Luxury",
+        "old_price": "1.200.000đ",
+        "new_price": "950.000đ"
+      },
+      {
+        "name": "Nối mi Volume tự nhiên",
+        "brand": "Lashes",
+        "old_price": "900.000đ",
+        "new_price": "750.000đ"
+      },
+      {
+        "name": "Phủ bóng Collagen",
+        "brand": "Treatment",
+        "old_price": "500.000đ",
+        "new_price": "390.000đ"
+      },
+      {
+        "name": "Nail Ombre phối màu",
+        "brand": "Trend",
+        "old_price": "600.000đ",
+        "new_price": "480.000đ"
+      }
+    ]
+  },
+  "en": {
+    "products.section_title": "Featured Services",
+    "products_list": [
+      {
+        "name": "Hand-painted 3D Nail Art",
+        "brand": "Signature",
+        "old_price": "$35",
+        "new_price": "$28"
+      },
+      {
+        "name": "Organic Nail Care",
+        "brand": "Organic Care",
+        "old_price": "$18",
+        "new_price": "$14"
+      },
+      {
+        "name": "Swarovski Crystal Accents",
+        "brand": "Luxury",
+        "old_price": "$55",
+        "new_price": "$42"
+      },
+      {
+        "name": "Natural Volume Lash Extensions",
+        "brand": "Lashes",
+        "old_price": "$40",
+        "new_price": "$32"
+      },
+      {
+        "name": "Collagen Gloss Treatment",
+        "brand": "Treatment",
+        "old_price": "$22",
+        "new_price": "$17"
+      },
+      {
+        "name": "Gradient Ombre Nails",
+        "brand": "Trend",
+        "old_price": "$26",
+        "new_price": "$21"
+      }
+    ]
+  }
+}

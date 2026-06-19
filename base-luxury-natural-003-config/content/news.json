@@ -1,0 +1,72 @@
+{
+  "vi": {
+    "section_title": "Góc Nghệ Thuật & Xu Hướng",
+    "news_list": [
+      {
+        "title": "Xu hướng nail tráng gương 2024",
+        "description": "Sự trở lại mạnh mẽ của phong cách metallic tạo nên vẻ ngoài thời thượng.",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Bí mật chăm sóc mi nối",
+        "description": "Làm thế nào để giữ hàng mi cong vút bền lâu mà không gây hại.",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Nail tối giản - Sự tinh tế",
+        "description": "Minimalism trong nail art dành cho quý cô yêu thích sự nhẹ nhàng.",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Tone màu thu cho nail art",
+        "description": "Những bảng màu ấm áp đang làm mưa làm gió trong mùa thu này.",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Dưỡng móng chuyên sâu",
+        "description": "Quy trình phục hồi móng yếu sau khi làm móng nghệ thuật thường xuyên.",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Lash lift hay Lash extension",
+        "description": "Cách chọn phương pháp phù hợp với dáng mắt của bạn.",
+        "btn_text": "Xem ngay"
+      }
+    ]
+  },
+  "en": {
+    "section_title": "Artistic Insights & Trends",
+    "news_list": [
+      {
+        "title": "Chrome Nail Trends 2024",
+        "description": "The bold comeback of metallic styles creating a trendy look.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Secrets to Lash Care",
+        "description": "How to keep your lash extensions long-lasting and healthy.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Minimalist Nail Art",
+        "description": "Minimalism for ladies who love understated elegance.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Autumn Color Palettes",
+        "description": "Warm tones dominating the nail art scene this autumn.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Deep Nail Recovery",
+        "description": "Restorative processes for nails after frequent art sessions.",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Lash Lift vs Extension",
+        "description": "How to choose the perfect method for your eye shape.",
+        "btn_text": "Read more"
+      }
+    ]
+  }
+}

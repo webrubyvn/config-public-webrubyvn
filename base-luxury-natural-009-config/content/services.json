@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "services.section_title": "Trải nghiệm đặc quyền",
+    "services.section_subtitle": "Đội ngũ nghệ nhân cam kết mang đến tiêu chuẩn phục vụ 5 sao",
+    "services_list": [
+      {
+        "title": "Nghệ nhân tay nghề cao",
+        "description": "Đội ngũ thợ nail với trên 10 năm kinh nghiệm trong ngành.",
+        "btn_text": "Tìm hiểu"
+      },
+      {
+        "title": "Màu sơn nhập khẩu",
+        "description": "Sử dụng dòng sơn gel cao cấp từ Hàn Quốc và Nhật Bản.",
+        "btn_text": "Tìm hiểu"
+      },
+      {
+        "title": "Tiệt trùng tuyệt đối",
+        "description": "Công nghệ tiệt trùng dụng cụ đạt tiêu chuẩn y tế quốc tế.",
+        "btn_text": "Tìm hiểu"
+      },
+      {
+        "title": "Không gian thư giãn",
+        "description": "Thiết kế sang trọng, yên tĩnh giúp bạn tái tạo năng lượng.",
+        "btn_text": "Tìm hiểu"
+      },
+      {
+        "title": "Bảo hành dịch vụ",
+        "description": "Cam kết bảo hành độ bền lên đến 7 ngày sau khi thực hiện.",
+        "btn_text": "Tìm hiểu"
+      },
+      {
+        "title": "Trà chiều thượng hạng",
+        "description": "Thưởng thức trà thảo mộc trong lúc trải nghiệm dịch vụ.",
+        "btn_text": "Tìm hiểu"
+      }
+    ]
+  },
+  "en": {
+    "services.section_title": "Exclusive Privileges",
+    "services.section_subtitle": "Our master artisans are committed to 5-star service standards",
+    "services_list": [
+      {
+        "title": "Master Artisans",
+        "description": "Our team features nail technicians with over 10 years of experience.",
+        "btn_text": "Learn More"
+      },
+      {
+        "title": "Imported Polishes",
+        "description": "Using high-end gel polish lines from Korea and Japan.",
+        "btn_text": "Learn More"
+      },
+      {
+        "title": "Sterilization Standards",
+        "description": "International medical-grade equipment sterilization protocols.",
+        "btn_text": "Learn More"
+      },
+      {
+        "title": "Relaxing Ambiance",
+        "description": "Luxurious, quiet design to help you recharge and rejuvenate.",
+        "btn_text": "Learn More"
+      },
+      {
+        "title": "Service Warranty",
+        "description": "Commitment to long-lasting results with a 7-day service guarantee.",
+        "btn_text": "Learn More"
+      },
+      {
+        "title": "Premium Afternoon Tea",
+        "description": "Savor herbal tea while you enjoy our professional services.",
+        "btn_text": "Learn More"
+      }
+    ]
+  }
+}

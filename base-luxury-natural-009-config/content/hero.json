@@ -1,0 +1,12 @@
+{
+  "vi": {
+    "hero.title_welcome": "Đẳng cấp Nails Nghệ thuật",
+    "hero.description": "Nâng tầm phong thái với dịch vụ thiết kế Nail & Lashes chuyên sâu, nơi mỗi chi tiết nhỏ đều được chăm chút bởi đôi bàn tay nghệ sĩ.",
+    "hero.cta_button": "Đặt lịch ngay"
+  },
+  "en": {
+    "hero.title_welcome": "Exquisite Nail Artistry",
+    "hero.description": "Elevate your charisma with bespoke Nail & Lashes services, where every intricate detail is crafted by master artisans.",
+    "hero.cta_button": "Book Now"
+  }
+}

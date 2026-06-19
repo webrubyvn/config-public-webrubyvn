@@ -1,0 +1,62 @@
+{
+  "vi": {
+    "testimonials.title": "Khách hàng thượng lưu nói về chúng tôi",
+    "testimonials.subtitle": "Trải nghiệm đẳng cấp qua cảm nhận của khách hàng",
+    "testimonials_list": [
+      {
+        "quote": "Bộ móng tinh xảo như một tác phẩm nghệ thuật, dịch vụ xứng tầm 5 sao.",
+        "author": "Doanh nhân Lan Anh"
+      },
+      {
+        "quote": "Không gian yên tĩnh, nhân viên chuyên nghiệp và rất tinh tế.",
+        "author": "Người mẫu Minh Tú"
+      },
+      {
+        "quote": "Sơn gel rất bền, màu sắc sang trọng, tôi cực kỳ hài lòng.",
+        "author": "Diễn viên Ngọc Lan"
+      },
+      {
+        "quote": "Dịch vụ nối mi ở đây rất nhẹ nhàng, tự nhiên và sắc sảo.",
+        "author": "Doanh nhân Thảo Vy"
+      },
+      {
+        "quote": "Sự lựa chọn số 1 cho những dịp quan trọng của tôi.",
+        "author": "Beauty Blogger Mai"
+      },
+      {
+        "quote": "Đẳng cấp từ cách phục vụ đến chất lượng kỹ thuật.",
+        "author": "Doanh nhân Hoàng Anh"
+      }
+    ]
+  },
+  "en": {
+    "testimonials.title": "Our Elite Clients Share Their Experiences",
+    "testimonials.subtitle": "First-class experience through the eyes of our guests",
+    "testimonials_list": [
+      {
+        "quote": "The manicure is exquisite, like a work of art. Truly 5-star service.",
+        "author": "Businesswoman Lan Anh"
+      },
+      {
+        "quote": "Quiet atmosphere, professional and very refined staff.",
+        "author": "Model Minh Tu"
+      },
+      {
+        "quote": "The gel polish is very durable and elegant. I am extremely satisfied.",
+        "author": "Actress Ngoc Lan"
+      },
+      {
+        "quote": "The eyelash service here is gentle, natural, and sophisticated.",
+        "author": "Businesswoman Thao Vy"
+      },
+      {
+        "quote": "My number one choice for important occasions.",
+        "author": "Beauty Blogger Mai"
+      },
+      {
+        "quote": "Classy from service to technical quality.",
+        "author": "Businessman Hoang Anh"
+      }
+    ]
+  }
+}

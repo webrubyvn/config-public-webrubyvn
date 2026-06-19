@@ -1,0 +1,84 @@
+{
+  "vi": {
+    "products.section_title": "Dịch vụ phổ biến",
+    "products_list": [
+      {
+        "name": "Nail Art Đính Đá Swarovski",
+        "brand": "Luxury Collection",
+        "old_price": "800.000đ",
+        "new_price": "650.000đ"
+      },
+      {
+        "name": "Nối Mi Volume Thiết Kế",
+        "brand": "Eyelash Pro",
+        "old_price": "600.000đ",
+        "new_price": "490.000đ"
+      },
+      {
+        "name": "Sơn Gel Cao Cấp Hàn Quốc",
+        "brand": "K-Beauty",
+        "old_price": "300.000đ",
+        "new_price": "220.000đ"
+      },
+      {
+        "name": "Chăm Sóc Móng Chuyên Sâu",
+        "brand": "Spa Care",
+        "old_price": "250.000đ",
+        "new_price": "190.000đ"
+      },
+      {
+        "name": "Nối Mi Classic Tự Nhiên",
+        "brand": "Eyelash Pro",
+        "old_price": "400.000đ",
+        "new_price": "320.000đ"
+      },
+      {
+        "name": "Đắp Bột Nghệ Thuật",
+        "brand": "Master Craft",
+        "old_price": "700.000đ",
+        "new_price": "550.000đ"
+      }
+    ]
+  },
+  "en": {
+    "products.section_title": "Popular Services",
+    "products_list": [
+      {
+        "name": "Swarovski Crystal Nail Art",
+        "brand": "Luxury Collection",
+        "old_price": "$35.00",
+        "new_price": "$28.00"
+      },
+      {
+        "name": "Custom Volume Lashes",
+        "brand": "Eyelash Pro",
+        "old_price": "$26.00",
+        "new_price": "$21.00"
+      },
+      {
+        "name": "Premium Korean Gel Polish",
+        "brand": "K-Beauty",
+        "old_price": "$13.00",
+        "new_price": "$9.50"
+      },
+      {
+        "name": "Intensive Nail Care",
+        "brand": "Spa Care",
+        "old_price": "$11.00",
+        "new_price": "$8.00"
+      },
+      {
+        "name": "Natural Classic Lashes",
+        "brand": "Eyelash Pro",
+        "old_price": "$17.00",
+        "new_price": "$14.00"
+      },
+      {
+        "name": "Artistic Acrylic Nails",
+        "brand": "Master Craft",
+        "old_price": "$30.00",
+        "new_price": "$24.00"
+      }
+    ]
+  }
+}

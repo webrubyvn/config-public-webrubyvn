@@ -1,0 +1,96 @@
+{
+  "vi": {
+    "products.section_title": "Dịch vụ signature",
+    "products_list": [
+      {
+        "name": "Nail Đắp Bột 3D",
+        "brand": "Signature",
+        "old_price": "1.200.000đ",
+        "new_price": "950.000đ"
+      },
+      {
+        "name": "Nối Mi Volumne",
+        "brand": "Premium",
+        "old_price": "800.000đ",
+        "new_price": "650.000đ"
+      },
+      {
+        "name": "Chăm Sóc Móng Tay",
+        "brand": "Luxury",
+        "old_price": "500.000đ",
+        "new_price": "390.000đ"
+      },
+      {
+        "name": "Nghệ Thuật Sơn Gel",
+        "brand": "Vogue",
+        "old_price": "600.000đ",
+        "new_price": "450.000đ"
+      },
+      {
+        "name": "Spa Chân Thảo Dược",
+        "brand": "Relax",
+        "old_price": "750.000đ",
+        "new_price": "550.000đ"
+      },
+      {
+        "name": "Đính Đá Quý Cao Cấp",
+        "brand": "Elite",
+        "old_price": "1.500.000đ",
+        "new_price": "1.200.000đ"
+      },
+      {
+        "name": "Thiết Kế Móng Theo Yêu Cầu",
+        "brand": "Artist",
+        "old_price": "2.000.000đ",
+        "new_price": "1.600.000đ"
+      }
+    ]
+  },
+  "en": {
+    "products.section_title": "Signature Services",
+    "products_list": [
+      {
+        "name": "3D Sculpted Nails",
+        "brand": "Signature",
+        "old_price": "$50.00",
+        "new_price": "$40.00"
+      },
+      {
+        "name": "Volume Eyelash Extensions",
+        "brand": "Premium",
+        "old_price": "$35.00",
+        "new_price": "$28.00"
+      },
+      {
+        "name": "Manicure Treatment",
+        "brand": "Luxury",
+        "old_price": "$22.00",
+        "new_price": "$17.00"
+      },
+      {
+        "name": "Artistic Gel Polish",
+        "brand": "Vogue",
+        "old_price": "$25.00",
+        "new_price": "$19.00"
+      },
+      {
+        "name": "Herbal Foot Spa",
+        "brand": "Relax",
+        "old_price": "$32.00",
+        "new_price": "$24.00"
+      },
+      {
+        "name": "Premium Stone Embellishment",
+        "brand": "Elite",
+        "old_price": "$65.00",
+        "new_price": "$52.00"
+      },
+      {
+        "name": "Custom Nail Design",
+        "brand": "Artist",
+        "old_price": "$85.00",
+        "new_price": "$70.00"
+      }
+    ]
+  }
+}

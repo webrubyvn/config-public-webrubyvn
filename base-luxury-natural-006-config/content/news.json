@@ -1,0 +1,72 @@
+{
+  "vi": {
+    "section_title": "Góc nhìn chuyên gia",
+    "news_list": [
+      {
+        "title": "Xu hướng Nail đính đá 2024",
+        "description": "Sự kết hợp giữa pha lê cao cấp và thiết kế tối giản...",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Bí quyết dưỡng mi bền lâu",
+        "description": "Cách chăm sóc hàng mi nối tại nhà sau khi làm dịch vụ...",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Màu móng tôn da cho nàng",
+        "description": "Bảng màu sơn Gel xu hướng giúp đôi bàn tay tỏa sáng...",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Công nghệ nối mi siêu nhẹ",
+        "description": "Trải nghiệm cảm giác nhẹ tựa không trung với kỹ thuật mới...",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Nail Art cho các buổi tiệc",
+        "description": "Tỏa sáng tại sự kiện với các thiết kế Nail đầy quyền năng...",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Vệ sinh móng đúng cách",
+        "description": "Những lưu ý quan trọng để giữ móng khỏe và bền màu...",
+        "btn_text": "Xem ngay"
+      }
+    ]
+  },
+  "en": {
+    "section_title": "Expert Insights",
+    "news_list": [
+      {
+        "title": "2024 Crystal Nail Trends",
+        "description": "The perfect blend of premium crystals and minimalist design...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Long-lasting Lash Care",
+        "description": "How to maintain your eyelash extensions at home...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Skin-flattering Nail Colors",
+        "description": "Trendsetting gel polish palettes to make your hands glow...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Ultra-light Lash Technology",
+        "description": "Experience weightless comfort with our new techniques...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Event-Ready Nail Art",
+        "description": "Shine at your events with powerful nail designs...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Proper Nail Hygiene",
+        "description": "Essential tips to keep your nails healthy and durable...",
+        "btn_text": "Read more"
+      }
+    ]
+  }
+}

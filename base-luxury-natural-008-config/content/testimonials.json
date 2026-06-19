@@ -1,0 +1,62 @@
+{
+  "vi": {
+    "testimonials.title": "Khách hàng nói về chúng tôi",
+    "testimonials.subtitle": "Lời khẳng định từ những quý cô đẳng cấp",
+    "testimonials_list": [
+      {
+        "quote": "Bộ móng nghệ thuật tuyệt đẹp, sự tỉ mỉ vượt ngoài mong đợi của tôi.",
+        "author": "Nguyễn Lan Anh"
+      },
+      {
+        "quote": "Dịch vụ nối mi tại đây thực sự làm thay đổi thần thái gương mặt tôi.",
+        "author": "Trần Mai Chi"
+      },
+      {
+        "quote": "Không gian riêng tư và chuyên nghiệp, tôi cảm thấy được trân trọng tuyệt đối.",
+        "author": "Phạm Hoàng"
+      },
+      {
+        "quote": "Nguyên liệu làm móng rất cao cấp, không hề có mùi hóa chất khó chịu.",
+        "author": "Lê Tuyết Mai"
+      },
+      {
+        "quote": "Chuyên gia rất am hiểu về xu hướng, tư vấn phong cách vô cùng tinh tế.",
+        "author": "Đặng Thu Thảo"
+      },
+      {
+        "quote": "Dịch vụ tại gia cực kỳ tiện lợi cho lịch trình bận rộn của tôi.",
+        "author": "Vũ Bích Ngọc"
+      }
+    ]
+  },
+  "en": {
+    "testimonials.title": "What our clients say",
+    "testimonials.subtitle": "Testimonials from our elite clientele",
+    "testimonials_list": [
+      {
+        "quote": "The artistic nail set was stunning, the precision exceeded my expectations.",
+        "author": "Nguyen Lan Anh"
+      },
+      {
+        "quote": "The lash extension service here truly transformed my facial expressions.",
+        "author": "Tran Mai Chi"
+      },
+      {
+        "quote": "Private and professional atmosphere, I felt completely valued.",
+        "author": "Pham Hoang"
+      },
+      {
+        "quote": "Premium nail products with absolutely no chemical odor.",
+        "author": "Le Tuyet Mai"
+      },
+      {
+        "quote": "The experts are trend-savvy with very sophisticated style advice.",
+        "author": "Dang Thu Thao"
+      },
+      {
+        "quote": "In-home service is extremely convenient for my busy schedule.",
+        "author": "Vu Bich Ngoc"
+      }
+    ]
+  }
+}

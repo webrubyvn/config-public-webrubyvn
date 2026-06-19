@@ -1,0 +1,12 @@
+{
+  "vi": {
+    "hero.title_welcome": "Nail Art - Tuyệt Tác Trên Đầu Ngón Tay",
+    "hero.description": "Trải nghiệm dịch vụ làm móng cao cấp với kỹ thuật vẽ tay tinh xảo, chất liệu sơn hữu cơ và không gian thư giãn đẳng cấp bậc nhất.",
+    "hero.cta_button": "Đặt lịch ngay"
+  },
+  "en": {
+    "hero.title_welcome": "Nail Art - Masterpieces on Your Fingertips",
+    "hero.description": "Experience premium nail services with exquisite hand-painting techniques, organic polishes, and an unparalleled relaxing atmosphere.",
+    "hero.cta_button": "Book Now"
+  }
+}

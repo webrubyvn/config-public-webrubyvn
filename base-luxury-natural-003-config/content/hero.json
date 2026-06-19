@@ -1,0 +1,12 @@
+{
+  "vi": {
+    "hero.title_welcome": "Nghệ thuật Nail & Lash Đẳng cấp",
+    "hero.description": "Trải nghiệm không gian làm đẹp tinh hoa, nơi mỗi nét vẽ và hàng mi là một tác phẩm nghệ thuật tôn vinh vẻ đẹp kiêu sa của bạn.",
+    "hero.cta_button": "Đặt lịch ngay"
+  },
+  "en": {
+    "hero.title_welcome": "Artisanal Nail & Lash Studio",
+    "hero.description": "Experience an elite beauty sanctuary, where every stroke and lash is a masterpiece designed to celebrate your sophisticated allure.",
+    "hero.cta_button": "Book Appointment"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "vi": {
+    "products.section_title": "Dịch vụ đẳng cấp",
+    "products_list": [
+      {
+        "name": "Nail Art Đính Đá Swarovski",
+        "brand": "Signature Collection",
+        "old_price": "1.200.000đ",
+        "new_price": "850.000đ"
+      },
+      {
+        "name": "Nối Mi Volume Thiết Kế",
+        "brand": "Lash Perfection",
+        "old_price": "900.000đ",
+        "new_price": "650.000đ"
+      },
+      {
+        "name": "Chăm Sóc Móng Chuyên Sâu",
+        "brand": "Premium Care",
+        "old_price": "500.000đ",
+        "new_price": "350.000đ"
+      },
+      {
+        "name": "Nail Sơn Gel Cao Cấp",
+        "brand": "Everlasting",
+        "old_price": "600.000đ",
+        "new_price": "450.000đ"
+      },
+      {
+        "name": "Combo Nail & Lash VIP",
+        "brand": "Total Beauty",
+        "old_price": "2.000.000đ",
+        "new_price": "1.500.000đ"
+      },
+      {
+        "name": "Nail Art Vẽ Tay Nghệ Thuật",
+        "brand": "Masterpiece",
+        "old_price": "1.500.000đ",
+        "new_price": "1.100.000đ"
+      }
+    ]
+  },
+  "en": {
+    "products.section_title": "Elite Services",
+    "products_list": [
+      {
+        "name": "Swarovski Stone Nail Art",
+        "brand": "Signature Collection",
+        "old_price": "$50.00",
+        "new_price": "$35.00"
+      },
+      {
+        "name": "Custom Volume Lash Extensions",
+        "brand": "Lash Perfection",
+        "old_price": "$40.00",
+        "new_price": "$28.00"
+      },
+      {
+        "name": "Intensive Nail Treatment",
+        "brand": "Premium Care",
+        "old_price": "$25.00",
+        "new_price": "$18.00"
+      },
+      {
+        "name": "Premium Gel Manicure",
+        "brand": "Everlasting",
+        "old_price": "$30.00",
+        "new_price": "$22.00"
+      },
+      {
+        "name": "VIP Nail & Lash Combo",
+        "brand": "Total Beauty",
+        "old_price": "$85.00",
+        "new_price": "$65.00"
+      },
+      {
+        "name": "Artistic Hand-Painted Nails",
+        "brand": "Masterpiece",
+        "old_price": "$65.00",
+        "new_price": "$48.00"
+      }
+    ]
+  }
+}

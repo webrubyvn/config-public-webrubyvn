@@ -1,0 +1,16 @@
+{
+  "vi": {
+    "footer.desc": "Kiến tạo vẻ đẹp móng nghệ thuật đẳng cấp. Chúng tôi kết hợp kỹ thuật Nail chuẩn quốc tế cùng gu thẩm mỹ thời thượng, mang đến trải nghiệm thư giãn tuyệt đối cho đôi bàn tay và ánh nhìn của bạn.",
+    "footer.newsletter_title": "NHẬN CẬP NHẬT XU HƯỚNG",
+    "footer.newsletter_desc": "Đăng ký để nhận ưu đãi 15% cho lần ghé thăm đầu tiên và các bộ sưu tập Nail-Art độc quyền.",
+    "footer.newsletter_placeholder": "Địa chỉ email của bạn",
+    "footer.newsletter_button": "ĐĂNG KÝ"
+  },
+  "en": {
+    "footer.desc": "Defining the artistry of premium nail & lash care. We blend international standard techniques with modern aesthetics to provide an ultimate relaxing experience for your hands and eyes.",
+    "footer.newsletter_title": "STAY TRENDY",
+    "footer.newsletter_desc": "Subscribe to get 15% off your first visit and access to our exclusive Nail-Art collections.",
+    "footer.newsletter_placeholder": "Your email address",
+    "footer.newsletter_button": "SUBSCRIBE"
+  }
+}

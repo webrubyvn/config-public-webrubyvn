@@ -1,0 +1,16 @@
+{
+  "vi": {
+    "footer.desc": "Kiến tạo vẻ đẹp từ những chi tiết nhỏ nhất. Nơi nghệ thuật Nail & Lashes thăng hoa cùng tiêu chuẩn thẩm mỹ đỉnh cao.",
+    "footer.newsletter_title": "NHẬN ƯU ĐÃI ĐỘC QUYỀN",
+    "footer.newsletter_desc": "Đăng ký để trở thành thành viên VIP và nhận đặc quyền chăm sóc sắc đẹp mỗi tháng.",
+    "footer.newsletter_placeholder": "Địa chỉ email của bạn",
+    "footer.newsletter_button": "ĐĂNG KÝ"
+  },
+  "en": {
+    "footer.desc": "Crafting beauty from the smallest details. Where Nail & Lashes art elevates with the highest aesthetic standards.",
+    "footer.newsletter_title": "GET EXCLUSIVE PERKS",
+    "footer.newsletter_desc": "Subscribe to become a VIP member and receive monthly beauty care privileges.",
+    "footer.newsletter_placeholder": "Your email address",
+    "footer.newsletter_button": "SUBSCRIBE"
+  }
+}

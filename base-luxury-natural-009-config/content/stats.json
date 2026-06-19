@@ -1,0 +1,22 @@
+{
+  "vi": {
+    "stats.customers": "15.000+",
+    "stats.customers_label": "Khách hàng hài lòng",
+    "stats.staff": "50+",
+    "stats.staff_label": "Nghệ nhân tay nghề",
+    "stats.satisfaction": "99%",
+    "stats.satisfaction_label": "Đánh giá 5 sao",
+    "stats.branches": "5",
+    "stats.branches_label": "Studio tại Hà Nội"
+  },
+  "en": {
+    "stats.customers": "15,000+",
+    "stats.customers_label": "Happy Clients",
+    "stats.staff": "50+",
+    "stats.staff_label": "Expert Artisans",
+    "stats.satisfaction": "99%",
+    "stats.satisfaction_label": "5-Star Reviews",
+    "stats.branches": "5",
+    "stats.branches_label": "Studios in Hanoi"
+  }
+}

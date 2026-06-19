@@ -1,0 +1,72 @@
+{
+  "vi": {
+    "section_title": "Xu hướng Nail & Lash",
+    "news_list": [
+      {
+        "title": "Kỹ thuật đính đá cao cấp",
+        "description": "Cách giữ đá bền đẹp trên móng trong suốt 4 tuần...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Xu hướng mi Volume 2024",
+        "description": "Đôi mắt thu hút nhờ kỹ thuật nối mi hiện đại...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Chăm sóc móng tại nhà",
+        "description": "Bí quyết giữ móng luôn khỏe mạnh sau làm nail...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Màu sắc cho mùa lễ hội",
+        "description": "Những gam màu giúp đôi tay bạn tỏa sáng...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Nghệ thuật vẽ gel 3D",
+        "description": "Đột phá công nghệ vẽ gel nổi đầy nghệ thuật...",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Dưỡng mi bền đẹp lâu",
+        "description": "Chế độ chăm sóc mi chuẩn chuyên gia tại gia...",
+        "btn_text": "Xem thêm"
+      }
+    ]
+  },
+  "en": {
+    "section_title": "Nail & Lash Trends",
+    "news_list": [
+      {
+        "title": "Premium Crystal Art",
+        "description": "How to keep crystals shiny for over 4 weeks...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Volume Lash Trends 2024",
+        "description": "Captivating eyes with modern lash extensions...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "At-home Nail Care",
+        "description": "Keep your nails healthy after professional care...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Holiday Nail Palettes",
+        "description": "Colors that make your hands shine bright...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "3D Gel Artistry",
+        "description": "Breakthroughs in 3D sculptural gel design...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Lasting Lash Care",
+        "description": "Expert tips for maintaining beautiful lashes...",
+        "btn_text": "Read more"
+      }
+    ]
+  }
+}

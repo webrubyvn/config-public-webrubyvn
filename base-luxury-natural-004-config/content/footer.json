@@ -1,0 +1,16 @@
+{
+  "vi": {
+    "footer.desc": "Hệ thống Nail & Lashes đẳng cấp quốc tế, nơi tôn vinh vẻ đẹp kiêu sa và thần thái thượng lưu thông qua nghệ thuật tạo tác móng chuyên sâu.",
+    "footer.newsletter_title": "NHẬN ƯU ĐÃI THƯỢNG LƯU",
+    "footer.newsletter_desc": "Đăng ký thành viên để nhận đặc quyền chăm sóc móng VIP và cập nhật xu hướng nail nghệ thuật mới nhất.",
+    "footer.newsletter_placeholder": "Địa chỉ email của bạn",
+    "footer.newsletter_button": "ĐĂNG KÝ"
+  },
+  "en": {
+    "footer.desc": "An international-standard Nail & Lashes studio, where we celebrate sophisticated beauty and elite charisma through intensive nail artistry.",
+    "footer.newsletter_title": "JOIN THE ELITE CIRCLE",
+    "footer.newsletter_desc": "Sign up for membership to receive VIP nail care privileges and updates on the latest artistic nail trends.",
+    "footer.newsletter_placeholder": "Your email address",
+    "footer.newsletter_button": "SUBSCRIBE"
+  }
+}

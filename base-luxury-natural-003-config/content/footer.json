@@ -1,0 +1,16 @@
+{
+  "vi": {
+    "footer.desc": "Kiến tạo vẻ đẹp từ những chi tiết nhỏ nhất. Nơi nghệ thuật Nail & Lash hội tụ cùng tinh thần Zen tĩnh tại, mang đến sự hoàn mỹ đẳng cấp.",
+    "footer.newsletter_title": "NHẬN ƯU ĐÃI THÀNH VIÊN",
+    "footer.newsletter_desc": "Đăng ký nhận thông tin độc quyền và ưu đãi trải nghiệm dịch vụ đặc quyền cho lần ghé thăm đầu tiên.",
+    "footer.newsletter_placeholder": "Địa chỉ email của bạn",
+    "footer.newsletter_button": "GIA NHẬP CỘNG ĐỒNG"
+  },
+  "en": {
+    "footer.desc": "Crafting beauty from the smallest details. Where Nail & Lash artistry meets a Zen state of mind, delivering high-end perfection.",
+    "footer.newsletter_title": "JOIN OUR EXCLUSIVE LIST",
+    "footer.newsletter_desc": "Subscribe for exclusive updates and special privileges for your first visit.",
+    "footer.newsletter_placeholder": "Your email address",
+    "footer.newsletter_button": "SUBSCRIBE NOW"
+  }
+}

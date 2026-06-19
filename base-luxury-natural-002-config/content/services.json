@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "services.section_title": "Đặc quyền khách hàng",
+    "services.section_subtitle": "Chăm sóc tận tâm, nâng tầm trải nghiệm",
+    "services_list": [
+      {
+        "title": "Tư vấn dáng móng",
+        "description": "Thiết kế phom móng phù hợp với cấu trúc bàn tay.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Bảo hành 7 ngày",
+        "description": "Sửa chữa miễn phí nếu gel bị bong tróc.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Khử trùng thiết bị",
+        "description": "Quy trình vệ sinh chuẩn y tế cho từng khách hàng.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Thẻ thành viên VIP",
+        "description": "Nhận ưu đãi giảm giá lên tới 20% mỗi lần làm.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Không gian thư giãn",
+        "description": "Trải nghiệm âm nhạc và tinh dầu sang trọng.",
+        "btn_text": "Xem thêm"
+      },
+      {
+        "title": "Trà & Đồ uống nhẹ",
+        "description": "Phục vụ miễn phí trà thảo mộc trong lúc đợi.",
+        "btn_text": "Xem thêm"
+      }
+    ]
+  },
+  "en": {
+    "services.section_title": "Customer Privileges",
+    "services.section_subtitle": "Dedicated care for an elevated experience",
+    "services_list": [
+      {
+        "title": "Nail Shape Consultation",
+        "description": "Custom designs to fit your unique hand structure.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "7-Day Guarantee",
+        "description": "Complimentary repairs if gel peels off.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Sterilized Tools",
+        "description": "Medical-grade sanitation for every client.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "VIP Membership",
+        "description": "Get up to 20% off on every visit.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Relaxation Lounge",
+        "description": "Experience luxury music and aromatherapy.",
+        "btn_text": "Learn more"
+      },
+      {
+        "title": "Tea & Refreshments",
+        "description": "Complimentary herbal tea while you wait.",
+        "btn_text": "Learn more"
+      }
+    ]
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "vi": {
+    "section_title": "Xu hướng & Nghệ thuật Nail",
+    "news_list": [
+      {
+        "title": "Kỹ thuật vẽ nail 3D siêu thực",
+        "description": "Khám phá chiều sâu của nghệ thuật móng tay hiện đại...",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Bí mật dưỡng móng chắc khỏe",
+        "description": "Quy trình chăm sóc chuyên sâu từ chuyên gia...",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Màu sắc phong thủy mùa lễ hội",
+        "description": "Lựa chọn tông màu tôn da và mang lại may mắn...",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Xu hướng đính đá Swarovski cao cấp",
+        "description": "Tạo điểm nhấn sang trọng cho đôi bàn tay...",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Nail art tối giản (Minimalism)",
+        "description": "Vẻ đẹp tinh tế từ sự đơn giản thuần khiết...",
+        "btn_text": "Xem ngay"
+      },
+      {
+        "title": "Quy trình làm móng tiêu chuẩn y khoa",
+        "description": "Đảm bảo an toàn tuyệt đối cho khách hàng...",
+        "btn_text": "Xem ngay"
+      }
+    ]
+  },
+  "en": {
+    "section_title": "Trends & Nail Art",
+    "news_list": [
+      {
+        "title": "Hyper-realistic 3D Nail Art",
+        "description": "Explore the depths of modern nail artistry...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Secrets to Strong Healthy Nails",
+        "description": "Intensive care routines from our experts...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Holiday Feng Shui Nail Colors",
+        "description": "Choosing flattering shades for good luck...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Premium Swarovski Crystal Trends",
+        "description": "Add a luxurious touch to your hands...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Minimalist Nail Art Trends",
+        "description": "Sophisticated beauty in pure simplicity...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Medical-Grade Nail Standards",
+        "description": "Ensuring absolute safety for every client...",
+        "btn_text": "Read more"
+      }
+    ]
+  }
+}

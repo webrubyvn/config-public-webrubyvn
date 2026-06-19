@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "services.section_title": "Trải nghiệm đặc quyền",
+    "services.section_subtitle": "Chúng tôi nâng niu vẻ đẹp của bạn bằng sự chuyên nghiệp",
+    "services_list": [
+      {
+        "title": "Không gian riêng tư",
+        "description": "Phòng làm dịch vụ biệt lập sang trọng.",
+        "btn_text": "Xem"
+      },
+      {
+        "title": "Dụng cụ tiệt trùng",
+        "description": "Chuẩn an toàn Y tế 100%.",
+        "btn_text": "Xem"
+      },
+      {
+        "title": "Kỹ thuật viên bậc thầy",
+        "description": "Trên 5 năm kinh nghiệm thực chiến.",
+        "btn_text": "Xem"
+      },
+      {
+        "title": "Sản phẩm thuần chay",
+        "description": "Nguồn gốc thiên nhiên cao cấp.",
+        "btn_text": "Xem"
+      },
+      {
+        "title": "Đồ uống thư giãn",
+        "description": "Menu trà thảo mộc độc quyền.",
+        "btn_text": "Xem"
+      },
+      {
+        "title": "Wifi tốc độ cao",
+        "description": "Kết nối không gián đoạn.",
+        "btn_text": "Xem"
+      }
+    ]
+  },
+  "en": {
+    "services.section_title": "Privileged Experience",
+    "services.section_subtitle": "Nurturing your beauty with unmatched professionalism",
+    "services_list": [
+      {
+        "title": "Private Suite",
+        "description": "Luxurious isolated service rooms.",
+        "btn_text": "View"
+      },
+      {
+        "title": "Sterilized Tools",
+        "description": "100% Medical-grade safety.",
+        "btn_text": "View"
+      },
+      {
+        "title": "Master Technicians",
+        "description": "Over 5 years of professional expertise.",
+        "btn_text": "View"
+      },
+      {
+        "title": "Vegan Products",
+        "description": "Premium natural origins.",
+        "btn_text": "View"
+      },
+      {
+        "title": "Relaxing Refreshments",
+        "description": "Exclusive herbal tea menu.",
+        "btn_text": "View"
+      },
+      {
+        "title": "High-Speed Wifi",
+        "description": "Uninterrupted connectivity.",
+        "btn_text": "View"
+      }
+    ]
+  }
+}

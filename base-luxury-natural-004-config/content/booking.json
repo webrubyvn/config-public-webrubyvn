@@ -1,0 +1,30 @@
+{
+  "vi": {
+    "booking.title": "Đặt lịch tư vấn & Trải nghiệm",
+    "booking.subtitle": "Để lại thông tin, chuyên viên của chúng tôi sẽ liên hệ để chuẩn bị sản phẩm và không gian tốt nhất cho bạn.",
+    "booking.form.name": "Họ và tên của bạn",
+    "booking.form.phone": "Số điện thoại liên hệ",
+    "booking.form.service": "Mục đích đặt lịch",
+    "booking.form.service_1": "Tư vấn phong cách cá nhân (Stylist)",
+    "booking.form.service_2": "Trải nghiệm sản phẩm tại Showroom",
+    "booking.form.service_3": "Tư vấn quà tặng doanh nghiệp",
+    "booking.form.service_4": "Lấy số đo / Thiết kế theo yêu cầu",
+    "booking.form.date": "Ngày dự kiến đến",
+    "booking.form.time": "Giờ dự kiến đến",
+    "booking.form.submit": "Gửi yêu cầu đặt lịch"
+  },
+  "en": {
+    "booking.title": "Book a Consultation & Fitting",
+    "booking.subtitle": "Leave your details and our specialists will contact you to prepare the best experience for your visit.",
+    "booking.form.name": "Your Full Name",
+    "booking.form.phone": "Contact Phone Number",
+    "booking.form.service": "Purpose of Visit",
+    "booking.form.service_1": "Personal Styling Session",
+    "booking.form.service_2": "Showroom Product Experience",
+    "booking.form.service_3": "Corporate Gift Consultation",
+    "booking.form.service_4": "Measurement / Custom Design",
+    "booking.form.date": "Expected Date",
+    "booking.form.time": "Expected Time",
+    "booking.form.submit": "Send Booking Request"
+  }
+}

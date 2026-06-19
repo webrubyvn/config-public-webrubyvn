@@ -1,0 +1,62 @@
+{
+  "vi": {
+    "testimonials.title": "Khách hàng cảm nhận...",
+    "testimonials.subtitle": "Sự hài lòng của bạn là động lực để chúng tôi hoàn thiện mỗi ngày",
+    "testimonials_list": [
+      {
+        "quote": "Bộ móng thiết kế quá tuyệt vời, tỉ mỉ từng chi tiết nhỏ.",
+        "author": "Nguyễn Lan"
+      },
+      {
+        "quote": "Dịch vụ nối mi rất nhẹ mắt, không hề bị cộm hay đau.",
+        "author": "Trần Mai"
+      },
+      {
+        "quote": "Không gian sang trọng, nhân viên cực kỳ chuyên nghiệp.",
+        "author": "Phạm Linh"
+      },
+      {
+        "quote": "Sơn gel giữ được lâu mà móng không hề bị yếu đi.",
+        "author": "Hoàng Anh"
+      },
+      {
+        "quote": "Thật sự là nơi thư giãn lý tưởng cuối tuần cho phái nữ.",
+        "author": "Đặng Thảo"
+      },
+      {
+        "quote": "Trải nghiệm 5 sao từ chất lượng đến không gian.",
+        "author": "Lê Phương"
+      }
+    ]
+  },
+  "en": {
+    "testimonials.title": "Client Testimonials...",
+    "testimonials.subtitle": "Your satisfaction drives us to perfect our craft every single day",
+    "testimonials_list": [
+      {
+        "quote": "The custom nail set is amazing, every detail is so precise.",
+        "author": "Nguyen Lan"
+      },
+      {
+        "quote": "The lash extensions feel so weightless, absolutely comfortable.",
+        "author": "Tran Mai"
+      },
+      {
+        "quote": "Luxurious atmosphere and highly professional staff.",
+        "author": "Pham Linh"
+      },
+      {
+        "quote": "Gel polish lasts long and my nails stay healthy and strong.",
+        "author": "Hoang Anh"
+      },
+      {
+        "quote": "Truly the ideal weekend relaxation spot for women.",
+        "author": "Dang Thao"
+      },
+      {
+        "quote": "A 5-star experience from quality to the environment.",
+        "author": "Le Phuong"
+      }
+    ]
+  }
+}

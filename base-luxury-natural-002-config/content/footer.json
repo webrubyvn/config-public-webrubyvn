@@ -1,0 +1,16 @@
+{
+  "vi": {
+    "footer.desc": "Kiến tạo vẻ đẹp móng tay chuẩn mực hoàng gia. Chúng tôi biến mỗi đầu ngón tay thành một kiệt tác nghệ thuật điêu khắc tinh xảo.",
+    "footer.newsletter_title": "NHẬN CẬP NHẬT ĐỘC QUYỀN",
+    "footer.newsletter_desc": "Đăng ký để trở thành người đầu tiên sở hữu các thiết kế Nail Art giới hạn mỗi tháng.",
+    "footer.newsletter_placeholder": "Nhập địa chỉ email của bạn",
+    "footer.newsletter_button": "ĐĂNG KÝ NGAY"
+  },
+  "en": {
+    "footer.desc": "Crafting royal-standard nail beauty. We transform every fingertip into a masterpiece of intricate sculptural art.",
+    "footer.newsletter_title": "GET EXCLUSIVE UPDATES",
+    "footer.newsletter_desc": "Subscribe to be the first to own our limited-edition Nail Art designs every month.",
+    "footer.newsletter_placeholder": "Enter your email address",
+    "footer.newsletter_button": "SUBSCRIBE"
+  }
+}

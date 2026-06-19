@@ -1,0 +1,62 @@
+{
+  "vi": {
+    "testimonials.title": "Khách hàng nói gì về chúng tôi",
+    "testimonials.subtitle": "Sự hài lòng của bạn là vinh dự của chúng tôi",
+    "testimonials_list": [
+      {
+        "quote": "Mẫu nail làm cực tỉ mỉ, nhân viên siêu dễ thương.",
+        "author": "Lan Anh"
+      },
+      {
+        "quote": "Mi nối rất tự nhiên, không bị cộm hay khó chịu.",
+        "author": "Mai Phương"
+      },
+      {
+        "quote": "Dịch vụ chuyên nghiệp, không gian rất thư giãn.",
+        "author": "Minh Thư"
+      },
+      {
+        "quote": "Tôi đã tìm được địa chỉ ruột cho bộ nail mình.",
+        "author": "Huyền Trang"
+      },
+      {
+        "quote": "Thiết kế nail độc lạ, không đụng hàng.",
+        "author": "Kim Chi"
+      },
+      {
+        "quote": "Chăm sóc khách hàng tận tâm, rất ấn tượng.",
+        "author": "Bảo Ngọc"
+      }
+    ]
+  },
+  "en": {
+    "testimonials.title": "What our clients say",
+    "testimonials.subtitle": "Your satisfaction is our honor",
+    "testimonials_list": [
+      {
+        "quote": "The nail art is so detailed, staff is super sweet.",
+        "author": "Lan Anh"
+      },
+      {
+        "quote": "Lashes look natural, no discomfort at all.",
+        "author": "Mai Phuong"
+      },
+      {
+        "quote": "Professional service, very relaxing atmosphere.",
+        "author": "Minh Thu"
+      },
+      {
+        "quote": "I finally found my go-to nail salon.",
+        "author": "Huyen Trang"
+      },
+      {
+        "quote": "Unique and creative nail designs.",
+        "author": "Kim Chi"
+      },
+      {
+        "quote": "Dedicated customer service, very impressed.",
+        "author": "Bao Ngoc"
+      }
+    ]
+  }
+}

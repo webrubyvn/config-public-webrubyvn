@@ -1,0 +1,20 @@
+{
+  "vi": {
+    "menu.home": "Trang chủ",
+    "menu.services": "Dịch vụ",
+    "menu.products": "Sản phẩm",
+    "menu.intro": "Giới thiệu",
+    "menu.booking": "Đặt lịch",
+    "menu.contact": "Liên hệ",
+    "footer.copyright": "TẤT CẢ CÁC QUYỀN ĐƯỢC BẢO LƯU."
+  },
+  "en": {
+    "menu.home": "Home",
+    "menu.services": "Services",
+    "menu.products": "Products",
+    "menu.intro": "About Us",
+    "menu.booking": "Booking",
+    "menu.contact": "Contact",
+    "footer.copyright": "ALL RIGHTS RESERVED."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "vi": {
+    "stats.customers": "10.000+",
+    "stats.customers_label": "Khách hàng hài lòng",
+    "stats.staff": "50+",
+    "stats.staff_label": "Chuyên viên tay nghề",
+    "stats.satisfaction": "99%",
+    "stats.satisfaction_label": "Tỷ lệ quay lại",
+    "stats.branches": "5",
+    "stats.branches_label": "Chi nhánh toàn quốc"
+  },
+  "en": {
+    "stats.customers": "10,000+",
+    "stats.customers_label": "Happy Clients",
+    "stats.staff": "50+",
+    "stats.staff_label": "Expert Technicians",
+    "stats.satisfaction": "99%",
+    "stats.satisfaction_label": "Retention Rate",
+    "stats.branches": "5",
+    "stats.branches_label": "Nationwide Branches"
+  }
+}

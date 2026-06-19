@@ -1,0 +1,22 @@
+{
+  "vi": {
+    "stats.customers": "15.000+",
+    "stats.customers_label": "Khách hàng hài lòng",
+    "stats.staff": "50+",
+    "stats.staff_label": "Chuyên gia nghệ thuật",
+    "stats.satisfaction": "99%",
+    "stats.satisfaction_label": "Tỷ lệ quay lại",
+    "stats.branches": "5",
+    "stats.branches_label": "Chi nhánh toàn quốc"
+  },
+  "en": {
+    "stats.customers": "15,000+",
+    "stats.customers_label": "Satisfied Clients",
+    "stats.staff": "50+",
+    "stats.staff_label": "Artisan Specialists",
+    "stats.satisfaction": "99%",
+    "stats.satisfaction_label": "Return Rate",
+    "stats.branches": "5",
+    "stats.branches_label": "Nationwide Branches"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "vi": {
+    "testimonials.title": "Khách hàng nói gì...",
+    "testimonials.subtitle": "Cảm nhận về nghệ thuật nail tại Studio",
+    "testimonials_list": [
+      {
+        "quote": "Bộ móng vẽ tay quá đẹp, tinh tế đến từng chi tiết nhỏ.",
+        "author": "Lan Anh"
+      },
+      {
+        "quote": "Không gian rất sang trọng, nhân viên cực kỳ chuyên nghiệp.",
+        "author": "Minh Thư"
+      },
+      {
+        "quote": "Sơn organic rất bền, không bị vàng móng sau khi tháo.",
+        "author": "Thùy Dương"
+      },
+      {
+        "quote": "Dịch vụ làm mi và móng ở đây đều đạt chuẩn 5 sao.",
+        "author": "Ngọc Trinh"
+      },
+      {
+        "quote": "Mình rất thích cách các bạn tư vấn kiểu dáng phù hợp tay.",
+        "author": "Bích Phương"
+      },
+      {
+        "quote": "Trải nghiệm thư giãn tuyệt vời sau giờ làm việc căng thẳng.",
+        "author": "Kim Oanh"
+      }
+    ]
+  },
+  "en": {
+    "testimonials.title": "What our clients say...",
+    "testimonials.subtitle": "Experiences with our nail artistry",
+    "testimonials_list": [
+      {
+        "quote": "The hand-painted design is stunning, down to the tiny details.",
+        "author": "Lan Anh"
+      },
+      {
+        "quote": "The atmosphere is very luxurious, staff is professional.",
+        "author": "Minh Thu"
+      },
+      {
+        "quote": "The organic polish lasts long and didn't yellow my nails.",
+        "author": "Thuy Duong"
+      },
+      {
+        "quote": "Both lashes and nail services here are 5-star standard.",
+        "author": "Ngoc Trinh"
+      },
+      {
+        "quote": "I love how they suggest styles that perfectly fit my hands.",
+        "author": "Bich Phuong"
+      },
+      {
+        "quote": "A wonderful relaxing experience after a stressful workday.",
+        "author": "Kim Oanh"
+      }
+    ]
+  }
+}

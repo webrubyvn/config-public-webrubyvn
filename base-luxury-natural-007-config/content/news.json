@@ -1,0 +1,72 @@
+{
+  "vi": {
+    "section_title": "Blog Nghệ Thuật",
+    "news_list": [
+      {
+        "title": "Xu hướng Nail-Art tối giản",
+        "description": "Sự thanh lịch đến từ những chi tiết nhỏ nhất...",
+        "btn_text": "Xem tiếp"
+      },
+      {
+        "title": "Bí quyết dưỡng mi dài",
+        "description": "Chăm sóc mi tại nhà chuẩn Spa...",
+        "btn_text": "Xem tiếp"
+      },
+      {
+        "title": "Màu nail cho mùa tiệc tùng",
+        "description": "Tỏa sáng với những tông màu trầm ấm...",
+        "btn_text": "Xem tiếp"
+      },
+      {
+        "title": "Lợi ích của sơn gel hữu cơ",
+        "description": "Sức khỏe móng là ưu tiên hàng đầu...",
+        "btn_text": "Xem tiếp"
+      },
+      {
+        "title": "Nghệ thuật đính đá cao cấp",
+        "description": "Điểm nhấn lấp lánh trên từng ngón tay...",
+        "btn_text": "Xem tiếp"
+      },
+      {
+        "title": "Quy trình làm móng 10 bước",
+        "description": "Sự chỉn chu trong từng thao tác...",
+        "btn_text": "Xem tiếp"
+      }
+    ]
+  },
+  "en": {
+    "section_title": "Artistic Blog",
+    "news_list": [
+      {
+        "title": "Minimalist Nail Trends",
+        "description": "Elegance defined by the smallest details...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Lash Care Secrets",
+        "description": "Professional spa-quality lash care at home...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Holiday Nail Colors",
+        "description": "Shine with these warm, festive tones...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Benefits of Organic Gel",
+        "description": "Nail health is our top priority...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "Premium Crystal Art",
+        "description": "Sparkling accents on every fingertip...",
+        "btn_text": "Read more"
+      },
+      {
+        "title": "10-Step Manicure Process",
+        "description": "Meticulous care in every motion...",
+        "btn_text": "Read more"
+      }
+    ]
+  }
+}

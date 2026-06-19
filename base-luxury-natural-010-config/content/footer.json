@@ -1,0 +1,16 @@
+{
+  "vi": {
+    "footer.desc": "Tiệm nail đẳng cấp hoàng gia, nơi mỗi bộ móng là một kiệt tác nghệ thuật độc bản dành riêng cho vị thế của bạn.",
+    "footer.newsletter_title": "ĐĂNG KÝ NHẬN TIN ĐỘC QUYỀN",
+    "footer.newsletter_desc": "Trở thành hội viên VIP để nhận ưu đãi đặc quyền và thông tin về các bộ sưu tập nail nghệ thuật mới nhất.",
+    "footer.newsletter_placeholder": "Địa chỉ email của quý khách",
+    "footer.newsletter_button": "ĐĂNG KÝ NGAY"
+  },
+  "en": {
+    "footer.desc": "Royal-class nail studio where every manicure is a unique artistic masterpiece tailored to your status.",
+    "footer.newsletter_title": "SUBSCRIBE FOR EXCLUSIVE UPDATES",
+    "footer.newsletter_desc": "Become a VIP member to receive exclusive privileges and news on our latest nail art collections.",
+    "footer.newsletter_placeholder": "Your email address",
+    "footer.newsletter_button": "SUBSCRIBE NOW"
+  }
+}

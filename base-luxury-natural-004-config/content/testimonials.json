@@ -1,0 +1,62 @@
+{
+  "vi": {
+    "testimonials.title": "Khách hàng nói gì về chúng tôi",
+    "testimonials.subtitle": "Trải nghiệm đẳng cấp qua từng nét vẽ",
+    "testimonials_list": [
+      {
+        "quote": "Bộ móng đính đá quá tinh xảo, tôi rất hài lòng với sự tận tâm của các bạn.",
+        "author": "Nguyễn Lan"
+      },
+      {
+        "quote": "Không gian rất sang trọng, tôi cảm thấy được thư giãn hoàn toàn.",
+        "author": "Trần Mai"
+      },
+      {
+        "quote": "Mi nối rất nhẹ và tự nhiên, không bị cộm, tôi sẽ quay lại thường xuyên.",
+        "author": "Lê Hà"
+      },
+      {
+        "quote": "Dịch vụ tốt, thái độ nhân viên chuyên nghiệp và rất chu đáo.",
+        "author": "Phạm Anh"
+      },
+      {
+        "quote": "Thiết kế móng rất sáng tạo, không đụng hàng, rất ưng ý.",
+        "author": "Hoàng Ngân"
+      },
+      {
+        "quote": "Đây là tiệm nail tốt nhất mà tôi từng trải nghiệm tại Việt Nam.",
+        "author": "Đặng Tú"
+      }
+    ]
+  },
+  "en": {
+    "testimonials.title": "What our clients say",
+    "testimonials.subtitle": "Elite experience in every detail",
+    "testimonials_list": [
+      {
+        "quote": "The gemstone nail art is exquisite, I am very pleased with your dedication.",
+        "author": "Nguyen Lan"
+      },
+      {
+        "quote": "The atmosphere is so luxurious, I feel completely relaxed.",
+        "author": "Tran Mai"
+      },
+      {
+        "quote": "The lash extensions are very light and natural, I will come back often.",
+        "author": "Le Ha"
+      },
+      {
+        "quote": "Excellent service, professional and very thoughtful staff.",
+        "author": "Pham Anh"
+      },
+      {
+        "quote": "Creative nail designs, very unique and totally satisfying.",
+        "author": "Hoang Ngan"
+      },
+      {
+        "quote": "This is the best nail salon I have ever experienced in Vietnam.",
+        "author": "Dang Tu"
+      }
+    ]
+  }
+}

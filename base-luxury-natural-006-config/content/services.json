@@ -1,0 +1,74 @@
+{
+  "vi": {
+    "services.section_title": "Đặc quyền thượng lưu",
+    "services.section_subtitle": "Trải nghiệm không gian thư giãn đẳng cấp quốc tế",
+    "services_list": [
+      {
+        "title": "Không gian riêng tư",
+        "description": "Phòng dịch vụ tách biệt, đảm bảo sự riêng tư tuyệt đối.",
+        "btn_text": "Chi tiết"
+      },
+      {
+        "title": "Trà thảo mộc cao cấp",
+        "description": "Thưởng thức trà organic trong khi chờ đợi dịch vụ.",
+        "btn_text": "Chi tiết"
+      },
+      {
+        "title": "Tư vấn thiết kế",
+        "description": "Chuyên gia sẽ thiết kế mẫu Nail phù hợp với phong thái.",
+        "btn_text": "Chi tiết"
+      },
+      {
+        "title": "Bảo hành dịch vụ",
+        "description": "Cam kết sửa chữa miễn phí trong 7 ngày đầu.",
+        "btn_text": "Chi tiết"
+      },
+      {
+        "title": "Sản phẩm organic",
+        "description": "Sử dụng mỹ phẩm nhập khẩu, an toàn cho da nhạy cảm.",
+        "btn_text": "Chi tiết"
+      },
+      {
+        "title": "Đặt lịch ưu tiên",
+        "description": "Không cần chờ đợi với hệ thống đặt chỗ thông minh.",
+        "btn_text": "Chi tiết"
+      }
+    ]
+  },
+  "en": {
+    "services.section_title": "Luxury Privileges",
+    "services.section_subtitle": "Experience world-class relaxation in our premium space",
+    "services_list": [
+      {
+        "title": "Private Suite",
+        "description": "Separate service rooms ensuring absolute privacy.",
+        "btn_text": "View more"
+      },
+      {
+        "title": "Artisanal Herbal Tea",
+        "description": "Enjoy organic tea while waiting for your service.",
+        "btn_text": "View more"
+      },
+      {
+        "title": "Personalized Consultation",
+        "description": "Experts design nail art matching your personal style.",
+        "btn_text": "View more"
+      },
+      {
+        "title": "Service Warranty",
+        "description": "Free touch-ups guaranteed for the first 7 days.",
+        "btn_text": "View more"
+      },
+      {
+        "title": "Organic Products",
+        "description": "Imported cosmetics, safe for sensitive skin.",
+        "btn_text": "View more"
+      },
+      {
+        "title": "Priority Booking",
+        "description": "No waiting times with our smart reservation system.",
+        "btn_text": "View more"
+      }
+    ]
+  }
+}
