@@ -1,23 +1,23 @@
 {
-  "hero_bg": "https://images.unsplash.com/photo-1519415510236-718bdfd89c1b?auto=format&w=1920&q=80",
+  "hero_bg": "https://images.unsplash.com/photo-1462899006636-339e08d1844e?auto=format&fit=crop&w=1200&q=75",
   "testimonial_bg": "https://images.unsplash.com/photo-1560066984-138dadb4c035?auto=format&w=1920&q=50",
   "services": [
     "https://images.unsplash.com/photo-1604654894610-df63bc536371?auto=format&w=600&h=600&fit=crop&q=75",
-    "https://images.unsplash.com/photo-1570172619644-dfd03d5d812e?auto=format&w=600&h=600&fit=crop&q=75",
+    "https://images.unsplash.com/photo-1454923634634-bd1614719a7b?auto=format&fit=crop&w=1200&q=75",
     "https://images.unsplash.com/photo-1596462502278-27bfdc403348?auto=format&w=600&h=600&fit=crop&q=75",
     "https://images.unsplash.com/photo-1632345031435-8727f6897d53?auto=format&w=600&h=600&fit=crop&q=75",
-    "https://images.unsplash.com/photo-1522335789103-801725535a23?auto=format&w=600&h=600&fit=crop&q=75",
-    "https://images.unsplash.com/photo-1582738411367-3392476579cd?auto=format&w=600&h=600&fit=crop&q=75"
+    "https://images.unsplash.com/photo-1556745757-8d76bdb6984b?auto=format&fit=crop&w=1200&q=75",
+    "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1200&q=75"
   ],
   "products": [
-    "https://images.unsplash.com/photo-1634942539498-f29e24024522?auto=format&w=500&h=500&fit=crop&q=75",
-    "https://images.unsplash.com/photo-1616394584738-fc6e613267b2?auto=format&w=500&h=500&fit=crop&q=75",
-    "https://images.unsplash.com/photo-1527799820374-d35d9d60294a?auto=format&w=500&h=500&fit=crop&q=75",
-    "https://images.unsplash.com/photo-1590486803833-1c3dc4710174?auto=format&w=500&h=500&fit=crop&q=75",
-    "https://images.unsplash.com/photo-1566895513813-f42110c71a39?auto=format&w=500&h=500&fit=crop&q=75",
+    "https://images.unsplash.com/39/lIZrwvbeRuuzqOoWJUEn_Photoaday_CSD%20%281%20of%201%29-5.jpg?auto=format&fit=crop&w=1200&q=75",
+    "https://images.unsplash.com/photo-1664575602276-acd073f104c1?auto=format&fit=crop&w=1200&q=75",
+    "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=1200&q=75",
+    "https://images.unsplash.com/photo-1507679799987-c73779587ccf?auto=format&fit=crop&w=1200&q=75",
+    "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=1200&q=75",
     "https://images.unsplash.com/photo-1519014816548-bf5fe059798b?auto=format&w=500&h=500&fit=crop&q=75",
     "https://images.unsplash.com/photo-1601784551446-20c9e07cdbdb?auto=format&w=500&h=500&fit=crop&q=75",
-    "https://images.unsplash.com/photo-1610996843330-819777f98b96?auto=format&w=500&h=500&fit=crop&q=75"
+    "https://images.unsplash.com/photo-1556740772-1a741367b93e?auto=format&fit=crop&w=1200&q=75"
   ],
   "testimonial_avatars": [
     "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&w=150&h=150&fit=crop&crop=faces&q=70",
@@ -28,11 +28,11 @@
     "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&w=150&h=150&fit=crop&crop=faces&q=70"
   ],
   "news": [
-    "https://images.unsplash.com/photo-1604905282194-d47155601551?q=80&w=800&auto=format&fit=crop",
+    "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?auto=format&fit=crop&w=1200&q=75",
     "https://images.unsplash.com/photo-1596462502278-27bfdc403348?q=80&w=800&auto=format&fit=crop",
     "https://images.unsplash.com/photo-1632345031435-8727f6897d53?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1522335789103-801725535a23?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1582738411367-3392476579cd?q=80&w=800&auto=format&fit=crop",
-    "https://images.unsplash.com/photo-1570172619644-dfd03d5d812e?q=80&w=800&auto=format&fit=crop"
+    "https://images.unsplash.com/photo-1611095790444-1dfa35e37b52?auto=format&fit=crop&w=1200&q=75",
+    "https://images.unsplash.com/photo-1522071820081-009f0129c71c?auto=format&fit=crop&w=1200&q=75",
+    "https://images.unsplash.com/photo-1444653614773-995cb1ef9efa?auto=format&fit=crop&w=1200&q=75"
   ]
 }
